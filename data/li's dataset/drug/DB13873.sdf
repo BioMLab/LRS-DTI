@@ -1,0 +1,196 @@
+64929
+  -OEChem-12112522202D
+
+ 37 38  0     0  0  0  0  0  0999 V2000
+    8.0622    4.1550    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    2.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -2.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2321   -3.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2321   -1.4790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    4.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    2.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    3.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6951   -3.5210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5421   -3.7480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690   -2.9010    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690   -1.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9221   -0.9420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6951   -1.7890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -0.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9272    3.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -4.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    4.7750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    2.3450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 35  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 16  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 36  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+64929
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+405
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAEAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAGgIACAAADEaAmCAyDoAABgCIAqDSCAICCAAkJQAIiAFGCsgNJjKFNx6CeSCkwBELqYeIzODOJAAAAAAAAABIAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[4-(4-chlorobenzoyl)phenoxy]-2-methyl-propanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[4-[(4-chlorophenyl)-oxomethyl]phenoxy]-2-methylpropanoic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[4-(4-chlorophenyl)carbonylphenoxy]-2-methyl-propanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[4-(4-chlorobenzoyl)phenoxy]-2-methyl-propionic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H15ClO4/c1-17(2,16(20)21)22-14-9-5-12(6-10-14)15(19)11-3-7-13(18)8-4-11/h3-10H,1-2H3,(H,20,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MQOBSOSZFYZQOK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3.9
+
+> <PUBCHEM_EXACT_MASS>
+318.0658866
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H15ClO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+318.7
+
+> <PUBCHEM_SMILES>
+CC(C)(C(=O)O)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(C)(C(=O)O)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+63.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+318.0658866
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  15  8
+12  14  8
+13  15  8
+17  18  8
+17  19  8
+18  20  8
+19  21  8
+20  22  8
+21  22  8
+9  12  8
+9  13  8
+
+$$$$

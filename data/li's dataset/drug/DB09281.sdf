@@ -1,0 +1,128 @@
+5311266
+  -OEChem-12112522092D
+
+ 13 10  0     0  0  0  0  0  0999 V2000
+    4.3066   -0.5995    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    5.6131    0.7071    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.7071    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    4.3066   -2.0137    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    4.3066    2.0137    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    5.2304   -0.2168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3827   -0.2168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5995   -1.3066    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.0137   -1.3066    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.2304    1.6310    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3827    1.6310    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.6131    0.7071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+M  CHG  6   4   2   5   2   8  -1   9  -1  10  -1  11  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5311266
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+141
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAPAwAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dimagnesium;dioxido-bis[[oxido(oxo)silyl]oxy]silane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dimagnesium;dioxido-bis[[oxido(oxo)silyl]oxy]silane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dimagnesium;dioxido-bis[[oxido(oxo)silyl]oxy]silane
+
+> <PUBCHEM_IUPAC_NAME>
+dimagnesium;dioxido-bis[[oxido(oxo)silyl]oxy]silane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dimagnesium;bis(oxidanidyl)-bis[[oxidanidyl(oxidanylidene)silyl]oxy]silane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dimagnesium;bis[[keto(oxido)silyl]oxy]-dioxido-silane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Mg.O8Si3/c;;1-9(2)7-11(5,6)8-10(3)4/q2*+2;-4
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GXGAKHNRMVGRPK-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+259.8601799
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Mg2O8Si3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+260.86
+
+> <PUBCHEM_SMILES>
+[O-][Si](=O)O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+[O-][Si](=O)O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+145
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+259.8601799
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

@@ -1,0 +1,3935 @@
+Anaphylactic shock
+Angioedema
+Pain
+Urticaria
+Injection site pain
+Anaemia
+Aphasia
+Mental disorder
+Brain neoplasm
+Infection
+Diarrhoea
+Oedema
+Rash
+Dermatitis
+Excoriation
+Eye disorder
+Body temperature increased
+Gastrointestinal disorder
+Glioma
+Headache
+Cardiac disorder
+Hemianopia
+Hemiparesis
+Haemorrhage
+Haemoglobin
+Herpes simplex
+Hyperaesthesia
+Hyperpathia
+Hypoaesthesia
+Hypotension
+Leukocytosis
+Nausea
+Neoplasm
+Nervous system disorder
+Nervousness
+Tension
+Paraesthesia
+Petechiae
+Pruritus
+Respiratory failure
+Seborrhoeic dermatitis
+Convulsion
+Skin disorder
+Sunburn
+Photosensitivity reaction
+Thrombocytopenia
+Embolism
+Embolism venous
+Ulcer
+Erythema
+Angiopathy
+Vomiting
+Chills
+Rash pustular
+Application site reaction
+Gamma-glutamyltransferase increased
+Skin hypertrophy
+Aspartate aminotransferase increased
+Alanine aminotransferase increased
+Dry skin
+Eyelid oedema
+Skin hyperpigmentation
+Leukoderma
+Scab
+Discomfort
+Tenderness
+Skin exfoliation
+Skin tightness
+Hepatobiliary disease
+Blood bilirubin increased
+Induration
+Feeling hot
+Dysaesthesia
+Wound secretion
+Rash maculo-papular
+Application site irritation
+Skin cancer
+Acne
+Infestation
+Amylase increased
+Accidental exposure to product
+Hyperkeratosis
+Photodermatosis
+Brain oedema
+Corneal oedema
+Corneal opacity
+Dyspnoea
+Flushing
+Hyperhidrosis
+Bradycardia
+Corneal decompensation
+Pyoderma
+Dermatitis infected
+Dandruff
+Application site anaesthesia
+Eye irritation
+Application site rash
+Thermal burn
+Application site dryness
+Application site erosion
+Alopecia
+Decreased appetite
+Glossitis
+Homocystinuria
+Irritability
+Personality disorder
+Sleep disorder
+Tooth disorder
+Urinary incontinence
+Urethral disorder
+Urinary tract disorder
+Agitation
+Malnutrition
+Skin odour abnormal
+Abdominal discomfort
+Hypermethioninaemia
+Dysgeusia
+Aspiration
+Obstructive airways disorder
+Obliterative bronchiolitis
+Dehydration
+Intestinal obstruction
+Gastrointestinal obstruction
+Injection site reaction
+Asthenia
+Confusional state
+Feeling abnormal
+Hyperkalaemia
+Hypocalcaemia
+Apathy
+Flat affect
+Dysarthria
+Abdominal pain upper
+Electrocardiogram ST segment
+Electrocardiogram QRS complex
+Electrocardiogram abnormal
+Poisoning
+Blood calcium decreased
+Citrate toxicity
+Liver disorder
+Gastrointestinal tract irritation
+Asthma
+Constipation
+Dizziness
+Somnolence
+Duodenal ulcer
+Dyspepsia
+Ecchymosis
+Epistaxis
+Erythema multiforme
+Oesophagitis
+Hallucination
+Hepatitis
+Lethargy
+Gastric ulcer
+Tinnitus
+Weight increased
+Burning sensation
+Occult blood positive
+Hearing impaired
+Deafness
+Skin papilloma
+Abdominal distension
+Gastrointestinal pain
+Abdominal pain
+Aggression
+Amblyopia
+Amenorrhoea
+Amnesia
+Anger
+Anxiety
+Arrhythmia
+Arthralgia
+Musculoskeletal discomfort
+Arthritis
+Ataxia
+Back injury
+Back pain
+Bipolar disorder
+Bipolar I disorder
+Concussion
+Breast cancer
+Breast disorder
+Bronchospasm
+Bronchitis
+Bruxism
+Bursitis
+Basal cell carcinoma
+Cardiovascular disorder
+Carpal tunnel syndrome
+Neck pain
+Chest pain
+Pleuritic pain
+Musculoskeletal chest pain
+Colitis
+Coma
+Conjunctivitis
+Connective tissue disorder
+Contusion
+Cough
+Cystitis noninfective
+Cystitis
+Bladder pain
+Cyst
+Disturbance in sexual arousal
+Libido decreased
+Dysphagia
+Delirium
+Delusion
+Dental caries
+Depersonalisation
+Dermatitis exfoliative
+Dermatitis atopic
+Diplopia
+Drug abuse
+Drug hypersensitivity
+Osteoarthritis
+Dyskinesia
+Dysmenorrhoea
+Dysuria
+Ear pain
+Eczema
+Enuresis
+Epicondylitis
+Eructation
+Extrapyramidal disorder
+Fatigue
+Flank pain
+Flatulence
+Vitreous floaters
+Cardiac flutter
+Localised infection
+Folliculitis
+Food allergy
+Food poisoning
+Female sexual arousal disorder
+Gastritis
+Gastroenteritis
+Gastrooesophageal reflux disease
+Gastrointestinal haemorrhage
+Gingival bleeding
+Gingivitis
+Angle closure glaucoma
+Glycosuria
+Gynaecomastia
+Breath odour
+Seasonal allergy
+Rhinitis seasonal
+Hepatitis C
+Inguinal hernia
+Herpes zoster
+Herpes virus infection
+Hirsutism
+Hordeolum
+Hostility
+Hunger
+Hypercholesterolaemia
+Hyperglycaemia
+Hypersensitivity
+Type IV hypersensitivity reaction
+Hypertension
+Breast enlargement
+Hyperventilation
+Hypoglycaemia
+Orthostatic hypotension
+Hypotrichosis
+Immune system disorder
+Inappropriate antidiuretic hormone secretion
+Libido increased
+Influenza
+Intestinal perforation
+Jaundice
+Dry eye
+Laryngitis
+Muscle spasms
+Leukopenia
+Mediastinal disorder
+Menopause
+Menstrual disorder
+Metrorrhagia
+Motion sickness
+Hypertonia
+Hypotonia
+Muscle relaxant therapy
+Muscle rigidity
+Musculoskeletal disorder
+Musculoskeletal pain
+Fungal infection
+Mydriasis
+Myocardial infarction
+Acute coronary syndrome
+Myoclonus
+Nasal congestion
+Nasopharyngitis
+Neuralgia
+Night sweats
+Nightmare
+Nocturia
+Orgasm abnormal
+Osteoporosis
+Ovarian cyst
+Ovarian disorder
+Pain in extremity
+Pallor
+Palpitations
+Pancreatitis
+Pancytopenia
+Panic reaction
+Sinus disorder
+Pelvic infection
+Pharyngitis
+Phlebitis
+Pneumonia
+Polyp
+Polyuria
+Urine output increased
+Pregnancy
+Premenstrual syndrome
+Prostatic disorder
+Prurigo
+Tension headache
+Psychotic disorder
+Pulmonary embolism
+Hyperacusis
+Respiratory tract infection
+Rhabdomyolysis
+Rhinitis
+Salpingitis
+Sciatica
+Sebaceous gland disorder
+Pharyngitis streptococcal
+Serum sickness
+Salivary hypersecretion
+Sinus headache
+Sinusitis
+Sneezing
+Snoring
+Soft tissue injury
+Somnambulism
+Stevens-Johnson syndrome
+Stomatitis
+Cerebrovascular accident
+Completed suicide
+Suicide attempt
+Loss of consciousness
+Shock
+Syncope
+Tachycardia
+Supraventricular tachycardia
+Tendonitis
+Testicular pain
+Thirst
+Tinea pedis
+Tonsillitis
+Toothache
+Tremor
+Trichotillomania
+Upper respiratory tract infection
+Pollakiuria
+Urinary tract infection
+Micturition disorder
+Vaginal infection
+Vaginal inflammation
+Vasodilation procedure
+Vertigo
+Weight decreased
+Wheezing
+Wound infection
+Laceration
+Dry mouth
+Yawning
+Muscle strain
+Urinary retention
+Vaginitis bacterial
+Micturition urgency
+Akinesia
+Mood swings
+Affect lability
+Photophobia
+Oedema peripheral
+Depressive symptom
+Hypokinesia
+Hepatic function abnormal
+Panic attack
+Drug withdrawal syndrome
+Mouth ulceration
+Migraine
+Atrioventricular block complete
+Swelling face
+Tongue oedema
+Tongue disorder
+Electroencephalogram abnormal
+Impaired healing
+Gastric pH decreased
+Hyperchlorhydria
+Injury
+Hepatocellular injury
+Liver injury
+Mania
+Muscular weakness
+Eye pain
+Urethral pain
+Paranoia
+Tendon disorder
+Duodenal ulcer haemorrhage
+Sensory disturbance
+Sinus congestion
+Skin irritation
+Joint swelling
+Lacrimation increased
+Viral diarrhoea
+Menstruation irregular
+Facial bones fracture
+Joint stiffness
+Oral pain
+Malaise
+Ill-defined disorder
+Myalgia
+Muscle twitching
+Nasal dryness
+Cold sweat
+Increased appetite
+Abdominal pain lower
+Disorientation
+Disturbance in attention
+Dysphoria
+Feeling of despair
+Bradykinesia
+Mental disability
+Thinking abnormal
+Perseveration
+Derealisation
+Hallucination, auditory
+Memory impairment
+Painful erection
+Abnormal dreams
+Intraocular pressure increased
+Rash erythematous
+Muscle contractions involuntary
+Euphoric mood
+Poor quality sleep
+Insomnia
+Hepatotoxicity
+Chest discomfort
+Lacrimation decreased
+Hepatic enzyme increased
+Pain in jaw
+Swollen tongue
+Heart rate irregular
+Circumoral oedema
+Genital rash
+Gingival pain
+Frequent bowel movements
+Nipple pain
+Prostate infection
+Dermal cyst
+Hypomania
+Respiratory tract congestion
+Pulmonary congestion
+Erectile dysfunction
+Parkinsonism
+Breast tenderness
+Vocal cord disorder
+Mouth injury
+Nerve compression
+Nerve injury
+Peripheral coldness
+Painful ejaculation
+Viral upper respiratory tract infection
+Extrasystoles
+Vision blurred
+Depressed mood
+Akathisia
+Influenza like illness
+Epigastric discomfort
+Initial insomnia
+Middle insomnia
+Joint injury
+Increased tendency to bruise
+Suicidal ideation
+Hyperkinesia
+Respiration abnormal
+Defaecation urgency
+Ligament sprain
+Wrist fracture
+Neuropathy peripheral
+Energy increased
+Hair colour changes
+Pruritus generalised
+Dyslexia
+Lymphadenopathy
+Conjunctivitis infective
+Blood pressure increased
+Tooth abscess
+Breast calcifications
+Coordination abnormal
+Paraesthesia oral
+Hypoaesthesia oral
+Stress
+Self-injurious ideation
+Terminal insomnia
+Face oedema
+Visual impairment
+Feeling jittery
+Depressed level of consciousness
+Altered state of consciousness
+Vulvovaginal mycotic infection
+Sexual dysfunction
+Lip dry
+Vulvovaginal discomfort
+Renal pain
+Gastritis viral
+Rubber sensitivity
+Sensation of heaviness
+Hot flush
+Menopausal symptoms
+Tardive dyskinesia
+Ear infection
+Throat irritation
+Limb injury
+Animal scratch
+Arthropod bite
+Feelings of worthlessness
+Social avoidant behaviour
+Laryngeal pain
+Tooth infection
+Injection site joint pain
+Procedural pain
+Muscle tightness
+Hypertonic bladder
+Hypersomnia
+Musculoskeletal stiffness
+Neurological examination abnormal
+Infrequent bowel movements
+Rhinorrhoea
+Increased upper airway secretion
+Dyspareunia
+Parosmia
+Lower limb fracture
+Testicular swelling
+Ejaculation disorder
+Vaginal haemorrhage
+Agranulocytosis
+Coagulopathy
+Myopathy
+Myositis
+Necrosis
+Renal failure
+Thrombosis
+Blood urea increased
+Blood creatine phosphokinase increased
+Intracranial pressure increased
+Peripheral ischaemia
+Anaphylactoid reaction
+Local reaction
+Extravasation
+Haematuria
+Haemoptysis
+Hypokalaemia
+Tachypnoea
+Platelet count decreased
+Electrocardiogram ST segment elevation
+Ichthyosis acquired
+Ichthyosis
+Chemical cystitis
+Angina pectoris
+Atrial fibrillation
+Gangrene
+Piloerection
+Ventricular arrhythmia
+Cyanosis
+Azotaemia
+Menorrhagia
+Dermatitis contact
+Acidosis
+Toxicity to various agents
+Hyponatraemia
+Lung disorder
+Thrombophlebitis
+Encephalopathy
+Blindness transient
+Hyperammonaemia
+Electrolyte imbalance
+Fluid overload
+Swelling
+Endocrine disorder
+Eosinophilia
+Hypothyroidism
+Neutropenia
+Injection site granuloma
+Injection site swelling
+Injection site fibrosis
+Injection site inflammation
+Injection site urticaria
+Injection site dermatitis
+Injection site haemorrhage
+Injection site bruising
+Injection site erythema
+Injection site pruritus
+Cardiac arrest
+Atrioventricular block
+Respiratory paralysis
+Venous thrombosis
+Paralysis flaccid
+Areflexia
+Gastrointestinal ulcer haemorrhage
+Ileus
+Hypothermia
+Body temperature decreased
+Stupor
+Pulmonary function test decreased
+Respiratory depression
+Hyperbilirubinaemia
+Hypertriglyceridaemia
+Blood triglycerides increased
+Nail disorder
+Priapism
+Prostatitis
+Proteinuria
+Protein urine present
+Psoriasis
+Restless legs syndrome
+Gastric disorder
+Liver function test abnormal
+Gastrointestinal sounds abnormal
+Visual acuity reduced
+Tongue ulceration
+Galactorrhoea
+Oedema mouth
+Hand dermatitis
+Laboratory test abnormal
+Rash generalised
+Vertigo positional
+Oral mucosal blistering
+Dreamy state
+Anaemia megaloblastic
+Asphyxia
+Vitamin B12 deficiency
+Hypoxia
+Central nervous system stimulation
+Vascular resistance pulmonary increased
+Acute yellow liver atrophy
+Sideroblastic anaemia
+Gouty arthritis
+Gout
+Marrow hyperplasia
+Hepatomegaly
+Tubulointerstitial nephritis
+Peptic ulcer
+Porphyrin metabolism disorder
+Splenomegaly
+Liver tenderness
+Blood iron increased
+Blood uric acid increased
+Hyperuricaemia
+Pulmonary oedema
+Throat tightness
+Balance disorder
+Multiple sclerosis relapse
+Albuminuria
+Alkalosis
+Hypochromic anaemia
+Apnoea
+Pneumothorax
+Atelectasis
+Atrial flutter
+Bundle branch block
+Cachexia
+Vulvovaginal candidiasis
+Cerebral infarction
+Chorea
+Cryptococcosis
+Drug eruption
+Diabetes insipidus
+Dupuytren's contracture
+Encephalitis
+Toxic epidermal necrolysis
+Fibrosis
+Multiple fractures
+Fracture
+Gingival hyperplasia
+Cardiomegaly
+Cardiac failure congestive
+Subdural haematoma
+Hemiplegia
+Hepatitis toxic
+Hodgkin's disease lymphocyte predominance type stage unspecified
+Hodgkin's disease lymphocyte depletion type stage unspecified
+Hodgkin's disease
+Hyperplasia
+Hypertrichosis
+Inflammation
+Ketosis
+Systemic lupus erythematosus
+Non-Hodgkin's lymphoma
+Lymphoma
+Measles
+Meningitis
+Neurosis
+Nystagmus
+Oliguria
+Osteomalacia
+Pelvic pain
+Peyronie's disease
+Polyarteritis nodosa
+Pneumonia aspiration
+Extensor plantar response
+Scotoma
+Skin mass
+Speech disorder
+Dysphemia
+Ventricular fibrillation
+Sinus bradycardia
+Hypophosphataemia
+Fluid retention
+Generalised oedema
+Oedema genital
+Ventricular extrasystoles
+Purpura
+Hyporeflexia
+Hyperreflexia
+Skin discolouration
+Polyneuropathy
+Traumatic liver injury
+Acute hepatic failure
+Hypopnoea
+Pseudolymphoma
+Anorectal discomfort
+Rectal tenesmus
+Proctalgia
+Asterixis
+Rash morbilliform
+Increased bronchial secretion
+Sputum increased
+Lung infiltration
+Sepsis
+Tonic convulsion
+Cognitive disorder
+Paralysis
+Drug reaction with eosinophilia and systemic symptoms
+Purple glove syndrome
+Ageusia
+Cerebral haemorrhage
+Cardiac output decreased
+Catatonia
+Depression
+Cardiac failure
+Intermittent claudication
+Eye pruritus
+Laryngospasm
+Arterial thrombosis
+Colitis ischaemic
+Oropharyngeal discomfort
+Oropharyngeal pain
+Xerosis
+Dermatitis psoriasiform
+Atrioventricular block second degree
+Respiratory distress
+Sinus arrest
+Thrombocytopenic purpura
+Lupus-like syndrome
+Loss of libido
+Pancreatitis acute
+Haemolytic anaemia
+Bladder neck obstruction
+Blood disorder
+Renal failure acute
+Renal tubular necrosis
+Pleural effusion
+Post procedural haemorrhage
+Stridor
+Trismus
+Hepatic failure
+Periorbital oedema
+Hypomagnesaemia
+Hepatic necrosis
+Urinary hesitation
+Rash macular
+Breath sounds abnormal
+Pemphigoid
+Hypoalbuminaemia
+Strangury
+Hepatitis fulminant
+Dystonia
+Alveolitis
+Drug interaction
+Serotonin syndrome
+Administration site reaction
+Mental status changes
+Acute generalised exanthematous pustulosis
+Anaemia postoperative
+Infusion site pain
+Benign prostatic hyperplasia
+Kounis syndrome
+Aplastic anaemia
+Jaundice cholestatic
+Melaena
+Sensory loss
+Polydipsia
+Growth retardation
+Metabolic acidosis
+Myopia
+Deep vein thrombosis
+Reticulocytosis
+Phlebitis superficial
+Renal impairment
+Teratogenicity
+Cholinergic syndrome
+Lactic acidosis
+Diabetes mellitus
+Ear disorder
+Retching
+Cardiac murmur
+Dysphonia
+Type I hypersensitivity
+Breast pain
+Otitis media
+Pre-eclampsia
+Multiple pregnancy
+Tracheitis
+Cardiac output increased
+Cardiac failure high output
+Tongue discolouration
+Myocardial ischaemia
+Cardiac fibrillation
+Saliva altered
+Bronchospasm paradoxical
+Tachycardia foetal
+Electrocardiogram ST segment depression
+Emotional distress
+Oropharyngeal swelling
+Autonomic neuropathy
+Vascular resistance systemic
+Vasodilatation
+Viral infection
+Dry throat
+Electrocardiogram change
+Acute phase reaction
+Episcleritis
+Oesophageal disorder
+Oesophageal stenosis
+Femur fracture
+Hypercalcaemia
+Hypercalciuria
+Leukaemia
+Lymphopenia
+Oral disorder
+Osteogenesis imperfecta
+Osteomyelitis
+Scleritis
+Uveitis
+Oesophageal ulcer
+Erosive oesophagitis
+Nephrolithiasis
+Transaminases increased
+Oesophageal irritation
+Anastomotic ulcer
+Regurgitation
+Osteonecrosis of jaw
+Atypical fracture
+Oedema due to cardiac disease
+Arthropathy
+Miosis
+Torsade de pointes
+Ventricular tachycardia
+Blood pressure systolic decreased
+Blood pressure diastolic decreased
+Intervertebral disc disorder
+Cholestasis
+Blood pressure fluctuation
+Floppy iris syndrome
+Coronary artery disease
+Cholestatic liver injury
+Cholecystitis
+Colitis ulcerative
+Proctocolitis
+Dysthymic disorder
+Diverticulitis
+Haematoma
+Haemorrhoids
+Hypopituitarism
+Intussusception
+Proctitis
+Skin infection
+Tachyarrhythmia
+Bone pain
+Feeling cold
+Haemorrhage urinary tract
+Haemorrhoidal haemorrhage
+Gastroduodenitis
+Feeling of body temperature change
+Intestinal ischaemia
+Blood bilirubin abnormal
+Respiratory disorder
+Gastrointestinal infection
+Rhinitis allergic
+Fear
+Hyperprolactinaemia
+Incontinence
+Muscle spasticity
+Panic disorder
+Sleep apnoea syndrome
+Withdrawal syndrome
+Sinus tachycardia
+Hangover
+Road traffic accident
+Clumsiness
+Drug withdrawal convulsions
+Sticky skin
+Psychomotor retardation
+Disinhibition
+Homicidal ideation
+Loss of control of legs
+Feeling of relaxation
+Feeling drunk
+Sleep talking
+Choking sensation
+Bradyphrenia
+Substance abuse
+Logorrhoea
+Sluggishness
+Major depression
+Mental retardation
+Neoplasm malignant
+Peripheral sensory neuropathy
+Blood alkaline phosphatase increased
+Neurological symptom
+Neurotoxicity
+Affective disorder
+Ovarian cancer
+Keratitis
+Neuroleptic malignant syndrome
+Pathological gambling
+Oculogyric crisis
+Livedo reticularis
+Sudden visual loss
+Elevated mood
+Punctate keratitis
+Acute respiratory failure
+Hypersexuality
+Gait disturbance
+Anuria
+Choking
+Disseminated intravascular coagulation
+Infarction
+Nephropathy
+Laryngeal oedema
+Malaria
+Myelitis transverse
+Nephrotic syndrome
+Spinal cord injury
+Vasospasm
+Blood creatinine increased
+Retroperitoneal haemorrhage
+Skin necrosis
+Respiratory arrest
+Vascular pain
+Blindness unilateral
+Conjunctival oedema
+Instillation site pain
+Application site pain
+Cardio-respiratory arrest
+Contrast media reaction
+Hiccups
+Hypoparathyroidism
+Toxic skin eruption
+Adrenal insufficiency
+Alveolitis allergic
+Goitre
+Precocious puberty
+Virilism
+Haematocrit decreased
+Haematemesis
+Status epilepticus
+Atrial tachycardia
+Brain injury
+Haemodynamic instability
+Hypoxic-ischaemic encephalopathy
+Overdose
+Sudden death
+Ileus paralytic
+Vascular purpura
+Antinuclear antibody positive
+Accommodation disorder
+Conduction disorder
+Hyperpyrexia
+Parotid gland enlargement
+Electrocardiogram QT prolonged
+Cardiomyopathy
+Aphthous stomatitis
+Chronic obstructive pulmonary disease
+Bronchial hyperreactivity
+Vasculitis
+Xerophthalmia
+Peripheral vascular disorder
+Dizziness postural
+Lymphadenitis
+Arrhythmia supraventricular
+Ureteric obstruction
+Aplasia
+Perirectal abscess
+Mucosal inflammation
+Chromaturia
+Ejection fraction decreased
+Febrile neutropenia
+Urine output
+Blister
+Dermatitis bullous
+Hip fracture
+Vaginal discharge
+Lymphoedema
+Henoch-Schonlein purpura
+Vulvovaginitis
+Cataract
+Lipid metabolism disorder
+Trigger finger
+Vulvovaginal dryness
+Cutaneous vasculitis
+Hepatitis acute
+Endometrial cancer
+Osteoporotic fracture
+Hepatic pain
+Low density lipoprotein increased
+High density lipoprotein decreased
+Blood cholesterol increased
+Tumour flare
+Oestrogenic effect
+Cerebral ischaemia
+Breast neoplasm
+Retinal vein thrombosis
+Blepharitis
+Eyelid ptosis
+Blepharospasm
+Eyelid disorder
+Hyperaemia
+Presyncope
+Endophthalmitis
+Ocular hyperaemia
+Eyelid retraction
+Keratopathy
+Erythema of eyelid
+Corneal erosion
+Eye discharge
+Vital dye staining cornea present
+Sensation of foreign body
+Eye oedema
+Corneal infiltrates
+Conjunctival follicles
+Foreign body sensation in eyes
+Eyelid margin crusting
+Ocular discomfort
+Respiratory alkalosis
+Breast feeding
+Varicella
+Haemorrhagic disorder
+Foetor hepaticus
+Reye's syndrome
+Cardiac septal defect
+Ventricular septal defect
+Left ventricular failure
+Mitral valve incompetence
+Cardiogenic shock
+Sick sinus syndrome
+Status asthmaticus
+Systolic hypertension
+Antinuclear antibody increased
+Anaemia macrocytic
+Bacterial infection
+Formication
+Hepatitis B
+Nodular regenerative hyperplasia
+Inflammatory bowel disease
+Acute myeloid leukaemia
+Acute leukaemia
+X-linked lymphoproliferative syndrome
+Lymphoproliferative disorder
+Malignant melanoma
+Myasthenia gravis
+Peliosis hepatis
+Steatorrhoea
+Acute febrile neutrophilic dermatosis
+Interstitial lung disease
+Cervical dysplasia
+Cervix carcinoma stage 0
+Nitrogen balance negative
+Venoocclusive disease
+Sarcoma
+Hepatosplenic T-cell lymphoma
+Oral herpes
+Iridocyclitis
+Vitiligo
+Keratosis pilaris
+Anosmia
+Rheumatoid arthritis
+Joint dislocation
+Congenital eye disorder
+Eye burns
+Furuncle
+Nasal septum perforation
+Mucosal ulceration
+Nocturnal dyspnoea
+Nasal discomfort
+Paranasal sinus hypersecretion
+Cerebrovascular disorder
+Autonomic nervous system imbalance
+Faecal incontinence
+Conversion disorder
+Skin ulcer
+Nuchal rigidity
+Drug ineffective
+Opisthotonus
+Hypogeusia
+Respiratory rate decreased
+Personality change
+Wound dehiscence
+Bladder spasm
+Haematochezia
+Hypoventilation
+Hepatic encephalopathy
+Hypocalciuria
+Leukocytoclastic vasculitis
+Methaemoglobinaemia
+Oral discomfort
+Skin sensitisation
+Lip swelling
+Superinfection
+Atrioventricular block first degree
+Acute myocardial infarction
+Pupils unequal
+Asthenopia
+Conjunctival disorder
+Panophthalmitis
+Eye haemorrhage
+Hyperlipidaemia
+Iritis
+Anorectal disorder
+Refraction disorder
+Hyperthyroidism
+Blood lactate dehydrogenase increased
+Lacrimal disorder
+Purpura non-thrombocytopenic
+Cardiac failure acute
+Abnormal sensation in eye
+Hypoaesthesia eye
+Fibroadenoma of breast
+Breast abscess
+Vitreous disorder
+Vascular anomaly
+Balanitis
+Bone disorder
+Hernia
+Hydronephrosis
+Pulmonary fibrosis
+Gastrointestinal carcinoma
+Bladder stenosis
+Haemoglobin decreased
+Iron deficiency anaemia
+Rectal haemorrhage
+Yellow skin
+Hypertransaminasaemia
+Abdominal rigidity
+Congenital anomaly
+Developmental delay
+Scleroderma
+Ischaemia
+Paresis
+Renal colic
+Dyspnoea exertional
+Raynaud's phenomenon
+Vein disorder
+Respiratory tract haemorrhage
+Purine metabolism disorder
+Stillbirth
+Respiratory tract oedema
+Inferior vena cava syndrome
+Conjunctival haemorrhage
+Conjunctivitis allergic
+Eye infection
+Developmental glaucoma
+Glaucoma
+Hypertrophy
+Rosacea
+Vitreous detachment
+Skin warm
+Skin burning sensation
+Pain of skin
+Eyelids pruritus
+Skin discomfort
+Rash papular
+Conjunctival hyperaemia
+Blindness
+Emotional disorder
+Anterograde amnesia
+Blood glucose decreased
+White blood cell count decreased
+Premature ejaculation
+Hypochloraemia
+Ear discomfort
+Arachnoiditis
+Carbon dioxide increased
+Hypercapnia
+Meningism
+Meningitis aseptic
+Diplegia
+Paraplegia
+Monoplegia
+Supraventricular extrasystoles
+Cranial nerve paralysis
+Anterior spinal artery syndrome
+Rectal discharge
+Vasoconstriction
+Dyschezia
+Peripheral nerve injury
+Extradural abscess
+Chondrolysis
+Cauda equina syndrome
+Anal haemorrhage
+Spinal anaesthesia
+Oxygen saturation decreased
+Injury associated with device
+Haemorrhagic anaemia
+Procedural hypotension
+Procedural hypertension
+Incision site oedema
+Post procedural swelling
+Procedural nausea
+Foetal distress syndrome
+Horner's syndrome
+Urine abnormality
+Urine analysis abnormal
+Delayed delivery
+Haemorrhage in pregnancy
+Urine flow decreased
+Aphonia
+Claustrophobia
+Temperature intolerance
+Dissociative disorder
+Irritable bowel syndrome
+Functional gastrointestinal disorder
+Alcohol abuse
+Cogwheel rigidity
+Ejaculation delayed
+Glossodynia
+Pelvic inflammatory disease
+Decreased interest
+Tunnel vision
+Addison's disease
+Anhidrosis
+Ascites
+Cardiac tamponade
+Erythema nodosum
+Varices oesophageal
+Graft versus host disease
+Hypogonadism
+Infertility
+Chronic myeloid leukaemia
+Multi-organ failure
+Opportunistic infection
+Pericardial effusion
+Pericarditis
+Delayed puberty
+Pulmonary valve incompetence
+Rales
+Acute respiratory distress syndrome
+Tumour lysis syndrome
+Cystitis haemorrhagic
+Hepatitis cholestatic
+Prothrombin level increased
+Porphyria non-acute
+Rash vesicular
+Cheilosis
+Melanoderma
+Peripheral artery thrombosis
+Pulmonary ossification
+Dystrophic calcification
+Atrophy
+Dysplasia
+Capillary leak syndrome
+Organ failure
+Haematological malignancy
+Pigmentation disorder
+Endocardial fibrosis
+Restrictive cardiomyopathy
+Acute graft versus host disease
+Chronic graft versus host disease
+Cytomegalovirus viraemia
+Pulmonary toxicity
+Hyperuricosuria
+Corneal thinning
+Death
+Thrombotic microangiopathy
+Failure to thrive
+Retinopathy of prematurity
+Necrotising colitis
+Necrotising enterocolitis neonatal
+Stroke volume increased
+Blood sodium increased
+Infusion site phlebitis
+Infusion site inflammation
+Thyroxine decreased
+Brain hypoxia
+Atrioventricular dissociation
+Hypertrophic cardiomyopathy
+Oligomenorrhoea
+Muscle fatigue
+Quadriparesis
+Macule
+Blood prolactin increased
+Cholelithiasis
+Hepatitis A
+Cutaneous lupus erythematosus
+Muscle atrophy
+Dyslipidaemia
+Vasculitis necrotising
+Retinal detachment
+Corneal degeneration
+Ciliary muscle spasm
+Adams-Stokes syndrome
+Arterial insufficiency
+Bone metabolism disorder
+Enzyme induction
+Folate deficiency
+Hepatosplenomegaly
+Infertility male
+Neuritis
+Neurodermatitis
+Eye movement disorder
+Osteopenia
+Aplasia pure red cell
+Reflexes abnormal
+Water intoxication
+Choreoathetosis
+Hypogammaglobulinaemia
+Testicular atrophy
+Ketonuria
+Porphyria acute
+Hallucination, visual
+Granulomatous liver disease
+Onychomadesis
+Thyroid function test abnormal
+Spermatogenesis abnormal
+Coronary artery insufficiency
+Blood osmolarity decreased
+Blood thyroid stimulating hormone increased
+Impaired gastric emptying
+High density lipoprotein increased
+Sperm concentration decreased
+Human herpesvirus 6 infection
+Bone density decreased
+Vanishing bile duct syndrome
+Jaundice hepatocellular
+Lichenoid keratosis
+Lenticular opacities
+Suicidal behaviour
+Labyrinthitis
+Abscess
+Brain abscess
+Oral candidiasis
+Candida infection
+Cushing's syndrome
+Effusion
+Grand mal convulsion
+VIIth nerve paralysis
+Hydrocephalus
+Cerebrospinal fluid leakage
+Retinal haemorrhage
+Wound
+Meningitis bacterial
+Adverse reaction
+Disease progression
+Pulmonary hypoplasia
+Anaplastic astrocytoma
+Meningitis chemical
+Neoplasm recurrence
+Cerebral haematoma
+Nephropathy toxic
+Gastrointestinal toxicity
+Ocular toxicity
+Idiopathic pneumonia syndrome
+Night blindness
+Angina unstable
+Periodontitis
+Renal artery stenosis
+Drug level increased
+Hypocholesterolaemia
+Gravitational oedema
+Hepatic congestion
+Glucose tolerance impaired
+Ischaemic cardiomyopathy
+Hypovolaemia
+Prothrombin level decreased
+Cardioactive drug level increased
+Adenoma benign
+Aortic valve incompetence
+Bacteriuria
+Cellulitis
+Transient ischaemic attack
+Arteriosclerosis coronary artery
+Diverticulum
+Alveolar osteitis
+Erysipelas
+Oesophageal perforation
+Lipoma
+Glomerulonephritis minimal lesion
+Synovitis
+Helicobacter infection
+Hyperchloraemia
+Soft tissue infection
+Enterocolitis haemorrhagic
+Haemorrhage intracranial
+Tendon rupture
+Vertigo CNS origin
+Prostatic specific antigen increased
+Blood urine present
+Blood urine
+Activated partial thromboplastin time prolonged
+Venous occlusion
+Foot fracture
+Ventricular hypertrophy
+Genital candidiasis
+Haemoglobin increased
+Blood glucose increased
+Blood culture positive
+Gingival infection
+Thrombocytosis
+Epilepsy
+Blood testosterone decreased
+Blood potassium increased
+Ischaemic stroke
+Large intestine polyp
+Hiatus hernia
+Glomerulonephritis
+Myelitis
+Nasal polyps
+Thyroid disorder
+Unintended pregnancy
+Ototoxicity
+Movement disorder
+Urticaria chronic
+Myelodysplastic syndrome
+Optic atrophy
+Puberty
+Peripheral motor neuropathy
+Metastatic neoplasm
+Lichen planus
+Macular degeneration
+Neuromyopathy
+Torticollis
+Deafness neurosensory
+Retinal injury
+Protrusion tongue
+Maculopathy
+Sialoadenitis
+Xanthopsia
+Hypoplastic anaemia
+Drooling
+Petit mal epilepsy
+Retinal disorder
+Breast engorgement
+Pregnancy test false positive
+Megacolon
+Masked facies
+Parkinsonian rest tremor
+Alcohol intolerance
+Metabolic disorder
+Alkalosis hypochloraemic
+Ingrowing nail
+Hair texture abnormal
+Application site hypersensitivity
+Duodenitis
+Polycythaemia
+Varicose vein
+Bradyarrhythmia
+Pulmonary haemorrhage
+Abnormal faeces
+Epidural haemorrhage
+Oesophageal haemorrhage
+Nodal arrhythmia
+Haemorrhage subcutaneous
+Mental disorder due to a general medical condition
+Strongyloidiasis
+Immunodeficiency
+Polymyositis
+Hepatic fibrosis
+Respiratory acidosis
+Anthrax
+Skin candida
+Corneal disorder
+Fungal skin infection
+Hypernatraemia
+Kidney infection
+Renal failure chronic
+Renal neoplasm
+Nephritis
+Nodule
+Otitis externa
+Pruritus genital
+Benign intracranial hypertension
+Repetitive strain injury
+Tooth discolouration
+Typhoid fever
+Vulvovaginal pruritus
+Cerebral thrombosis
+Intentional self-injury
+Self injurious behaviour
+Photopsia
+Clostridium difficile colitis
+Creatinine renal clearance decreased
+Crystalluria
+Deafness transitory
+Blood electrolytes abnormal
+Fixed eruption
+Red blood cell sedimentation rate increased
+Renal vasculitis
+Pneumonia anthrax
+Corneal deposits
+Serum sickness-like reaction
+Disability
+Blood creatinine decreased
+Suprapubic pain
+Urethral haemorrhage
+Colour blindness
+Eye swelling
+Drug intolerance
+Urine odour abnormal
+Papule
+Epidermolysis
+Gastrointestinal candidiasis
+Phobia
+Candiduria
+Aortic bruit
+Chromatopsia
+Dementia
+Pneumonia klebsiella
+Surgery
+Lipase increased
+Prothrombin time shortened
+Blood albumin decreased
+Blood potassium decreased
+Allergic oedema
+Ear pruritus
+Skin haemorrhage
+International normalised ratio decreased
+Corneal epithelium defect
+Prothrombin level abnormal
+Protein total decreased
+Monocyte count increased
+Chromosomal mutation
+Medication residue present
+Pseudomembranous colitis
+Eyelid exfoliation
+Pathogen resistance
+Abortion spontaneous
+Appendicitis
+Collagen disorder
+Electric shock
+Foetal death
+Lymphatic disorder
+Lymphocytosis
+Melanosis
+Obesity
+Penis disorder
+Anal pruritus
+Pyelonephritis
+Testicular disorder
+Drug level decreased
+Menometrorrhagia
+Blunted affect
+Anorgasmia
+Breast cancer female
+Drug tolerance
+Pericardial disease
+Drug dependence
+Dependence
+Ejaculation failure
+Hypohidrosis
+Female sexual dysfunction
+Aneurysm
+Animal bite
+Arteriosclerosis
+Sports injury
+Carbuncle
+Muscle contracture
+Crohn's disease
+Enteritis
+Eye injury
+Femoral neck fracture
+Fibromyalgia
+Anal fissure
+Gilbert's syndrome
+Hyperphagia
+Pulmonary hypertension
+Hypertensive crisis
+Ileitis
+Cerumen impaction
+Impetigo
+Keratoconus
+Mastitis
+Meniere's disease
+Myocarditis
+Neck injury
+Obsessive-compulsive disorder
+Upper-airway cough syndrome
+Radius fracture
+Rib fracture
+Salmonellosis
+Scoliosis
+Staphylococcal infection
+Streptococcal infection
+Tenosynovitis
+Tetany
+Thyroiditis
+Costochondritis
+Onychomycosis
+Tooth erosion
+Tracheal disorder
+Tuberculosis
+Ulna fracture
+Uterine leiomyoma
+Idiopathic thrombocytopenic purpura
+Post-traumatic neck syndrome
+Acute sinusitis
+Tracheobronchitis
+Muscle rupture
+Breast discharge
+Plantar fasciitis
+Neurotransmitter level altered
+Hypermagnesaemia
+Uterine spasm
+Otosalpingitis
+Ankle fracture
+Tympanic membrane perforation
+Atrophic vulvovaginitis
+Nodal rhythm
+Clonic convulsion
+Dermatitis acneiform
+Head discomfort
+Radiculopathy
+Crying
+Periodontal destruction
+Gastric polyps
+Early satiety
+Genital pain
+Pregnancy test positive
+Intervertebral disc protrusion
+Tooth injury
+Reflux gastritis
+Generalised anxiety disorder
+Bronchitis viral
+Change of bowel habit
+Facial spasm
+Acute psychosis
+Epidermal naevus
+House dust allergy
+Benign breast neoplasm
+Finger deformity
+Facial paresis
+Ligament injury
+Pyelonephritis acute
+Electrocardiogram PR shortened
+Food craving
+Bladder dilatation
+Sensation of blood flow
+Bladder discomfort
+Alcohol problem
+Nasal septum deviation
+Traumatic haematoma
+Stress at work
+Sacroiliitis
+Family stress
+Genitourinary chlamydia infection
+Genital infection
+Infection parasitic
+Allergic sinusitis
+Rhinitis perennial
+Arthropod sting
+International normalised ratio increased
+Local swelling
+Lung infection
+Performance status decreased
+Latent tetany
+Orchitis noninfective
+Exostosis
+Post-traumatic pain
+Abnormal behaviour
+Splenic infarction
+Corneal pigmentation
+Acute abdomen
+Limb reduction defect
+Anencephaly
+Anal atresia
+Coarctation of the aorta
+Astrocytoma
+Renal cell carcinoma
+Choriocarcinoma
+Cytogenetic abnormality
+Cleft lip
+Talipes
+Trisomy 21
+Patent ductus arteriosus
+Dwarfism
+Endometriosis
+Fibrocystic breast disease
+Heart disease congenital
+Diaphragmatic hernia
+Lymphocytic leukaemia
+Meningomyelocele
+Microcephaly
+Plasma cell myeloma
+Plasmacytoma
+Neural tube defect
+Optic neuritis
+Pituitary tumour
+Ectopic pregnancy
+Prolactinoma
+Fallot's tetralogy
+Thyroid neoplasm
+Tracheo-oesophageal fistula
+Uterine haemorrhage
+Neurofibromatosis
+Neuroectodermal neoplasm
+Hepatoblastoma
+Hepatic adenoma
+Bone development abnormal
+Skull malformation
+Renal aplasia
+Ovarian germ cell teratoma benign
+Macular oedema
+Cloacal exstrophy
+Hepatic angiosarcoma
+Ovarian enlargement
+Congenital central nervous system anomaly
+Tongue neoplasm malignant stage unspecified
+Bladder cancer
+Adnexal torsion
+Exomphalos
+Breast discomfort
+Pelvic discomfort
+Glioblastoma multiforme
+Ovarian haemorrhage
+Hepatocellular carcinoma
+Hepatic cancer
+Arteriovenous fistula
+Cleft palate
+Cryptorchism
+Dermoid cyst
+Gastrointestinal malformation
+Pectus excavatum
+Haemangioma
+Peritoneal haemorrhage
+Umbilical hernia
+Hydrothorax
+Syndactyly
+Conjoined twins
+Spina bifida occulta
+Ovarian hyperstimulation syndrome
+Ovulation pain
+Polydactyly
+Arterial occlusive disease
+Amaurosis
+Death neonatal
+Tibial torsion
+Adnexa uteri pain
+Abdominal symptom
+Apraxia
+Waxy flexibility
+Cheilitis
+Endometrial hyperplasia
+Epididymitis
+Exophthalmos
+Salivary gland enlargement
+Illusion
+Inner ear disorder
+Leukaemoid reaction
+Chloasma
+Mutism
+IIIrd nerve paralysis
+Parkinson's disease
+Psychosomatic disease
+Pyuria
+Stomach dilation procedure
+Gastric dilatation
+Vestibular disorder
+Vulval disorder
+Anticholinergic syndrome
+Schizophreniform disorder
+Hypnagogic hallucination
+Faeces discoloured
+Uterine inflammation
+Pharyngeal oedema
+Infection susceptibility increased
+Fat intolerance
+Perineal pain
+Libido disorder
+Renal cyst
+Alcohol poisoning
+Tongue coated
+Infectious mononucleosis
+Pleurisy
+Xeroderma
+Bladder dysfunction
+Cerebellar syndrome
+Appetite disorder
+Incomplete precocious puberty
+Gastrointestinal inflammation
+Colonic pseudo-obstruction
+Parotitis
+Sleep terror
+Lower respiratory tract infection
+Salivary gland pain
+Coombs test positive
+Otitis media acute
+Delusional perception
+Tearfulness
+Withdrawal hypertension
+Hallucinations, mixed
+Application site erythema
+Abnormal sleep-related event
+Device related infection
+Application site papules
+Application site burn
+Application site discolouration
+Sensitisation
+Vulvovaginal burning sensation
+Azoospermia
+Ulcerative keratitis
+Lactase deficiency
+Lactose intolerance
+Malabsorption
+Myotonia
+Axonal neuropathy
+Choroiditis
+Iris adhesions
+Incoherent
+Dermatomyositis
+Enterocolitis
+Microsomia
+Haemolytic uraemic syndrome
+Pericardial haemorrhage
+Venoocclusive liver disease
+Premature labour
+Myeloid leukaemia
+Myeloproliferative disorder
+Myxoedema
+Pulmonary veno-occlusive disease
+Radiation injury
+Septic shock
+Spinal cord disorder
+Telangiectasia
+Ureteritis
+Hepatitis viral
+Granulomatosis with polyangiitis
+Renal tubular disorder
+Malignant neoplasm of renal pelvis
+Ureteric cancer
+Nephrogenic diabetes insipidus
+Organising pneumonia
+Caecitis
+Cystitis interstitial
+Bladder necrosis
+Ovarian atrophy
+Bladder fibrosis
+C-reactive protein increased
+Ovarian failure
+Myopericarditis
+Carditis
+Cardiotoxicity
+Myocardial haemorrhage
+Hypothrombinaemia
+Palmar-plantar erythrodysaesthesia syndrome
+Recall phenomenon
+Wound healing normal
+Parotid gland inflammation
+Bacterial disease carrier
+Posterior reversible encephalopathy syndrome
+Anoxia
+Renal papillary necrosis
+Pulmonary eosinophilia
+Application site pruritus
+Tonic clonic movements
+Glucose-6-phosphate dehydrogenase deficiency
+Chondropathy
+Haemoglobinuria
+Hypersplenism
+Papilloedema
+Subcutaneous abscess
+Neutrophil count decreased
+Retinal toxicity
+Psychomotor skills impaired
+Cryptococcal cutaneous infection
+Pyramidal tract syndrome
+Zygomycosis
+Retinal degeneration
+Toxic encephalopathy
+Immobile
+Metaphyseal dysplasia
+Eschar
+Gastroenteritis yersinia
+Pancreatic enzymes increased
+Tourette's disorder
+Blood pressure systolic increased
+Tic
+Anhedonia
+Vasculitis cerebral
+Cardiac death
+Compulsions
+Neoplasm skin
+Hair growth abnormal
+Ingrown hair
+Pseudofolliculitis barbae
+Blood thromboplastin decreased
+Emotional poverty
+Floppy infant
+Cardiovascular insufficiency
+Diabetic ketoacidosis
+Diabetic hyperosmolar coma
+Breast mass
+Ketoacidosis
+Blood immunoglobulin G decreased
+Pancreatic necrosis
+Urine phosphorus increased
+Pseudodementia
+Complex regional pain syndrome
+Cervicobrachial syndrome
+Cycloplegia
+Suppressed lactation
+Transient global amnesia
+Gastrointestinal perforation
+Cellulitis gangrenous
+Necrotising fasciitis
+Procedural haemorrhage
+Electrocardiogram ST-T change
+Dissociation
+Prostatism
+Defect conduction intraventricular
+Peripheral sensorimotor neuropathy
+Autism
+Fanconi syndrome
+Hypoproteinaemia
+Learning disorder
+Polycystic ovaries
+Bleeding time prolonged
+Cerebral atrophy
+Neonatal disorder
+Coagulation factor decreased
+Liver function test normal
+Hypofibrinogenaemia
+Cerebellar atrophy
+Epidermal necrosis
+Autism spectrum disorder
+Arteritis
+Physical assault
+Lacrimal structural disorder
+Sinoatrial block
+Device capturing issue
+Deficiency anaemia
+Skin striae
+Erythropenia
+Anaemia vitamin B12 deficiency
+Clonus
+Polymyalgia rheumatica
+Subarachnoid haemorrhage
+Essential hypertension
+Tooth hypoplasia
+Semen analysis abnormal
+Retrograde ejaculation
+Lung neoplasm malignant
+Blood pressure normal
+Light anaesthesia
+Hypocapnia
+Carbon dioxide decreased
+Breast swelling
+Penile discharge
+Gingival hypertrophy
+Extraskeletal ossification
+Osteonecrosis
+Hypercalcaemia of malignancy
+Rash follicular
+Osteolysis
+Oesophageal achalasia
+Intestinal ulcer
+Enzyme abnormality
+Anxiety disorder
+Eustachian tube disorder
+Orbital oedema
+Injection site irritation
+Platelet disorder
+Encephalocele
+Foetal disorder
+Hepatorenal syndrome
+Placental disorder
+Sudden infant death syndrome
+Congenital genital malformation
+Peripheral embolism
+Mononeuritis
+Oedema mucosal
+Mean cell volume increased
+Transaminases decreased
+Hepatic steatosis
+Calculus urinary
+Trigeminal neuralgia
+Biliary tract disorder
+Decubitus ulcer
+Faecalith
+Faecaloma
+Granuloma
+Head injury
+Drug withdrawal syndrome neonatal
+Peritonitis
+Skin lesion
+Attention deficit/hyperactivity disorder
+Tooth loss
+Peroneal nerve palsy
+Deafness permanent
+Scrotal oedema
+Large intestinal haemorrhage
+Mucous membrane disorder
+Accidental overdose
+Motor dysfunction
+Spinal compression fracture
+Nail ridging
+Onychoclasis
+Nasal ulcer
+Lip pain
+Lip ulceration
+Gingival ulceration
+Chapped lips
+Non-cardiac chest pain
+Application site ulcer
+Skin reaction
+Cancer pain
+Upper airway obstruction
+Oral mucosal discolouration
+Tongue blistering
+Hyperlactacidaemia
+Application site eczema
+Subileus
+Nasal mucosal disorder
+Rhinalgia
+Upper respiratory tract congestion
+Oral pustule
+Intentional drug misuse
+Therapy naive
+Intranasal hypoaesthesia
+Aspergillus infection
+Vaginal disorder
+Culture negative
+Ventricular dysfunction
+Bone marrow toxicity
+Neurogenic bladder
+Psychotic behaviour
+Congenital skin disorder
+Cerebellar ataxia
+Arteriospasm coronary
+Demyelination
+Optic nerve disorder
+Acute pulmonary oedema
+Dacryocanaliculitis
+Biliary fibrosis
+Neutropenic sepsis
+White matter lesion
+Cerebral artery embolism
+Chondrodystrophy
+Foetal alcohol syndrome
+Hypomenorrhoea
+Mouth haemorrhage
+Orchitis
+Polymenorrhoea
+Emphysema
+Urethritis
+Urethritis noninfective
+Vascular headache
+Buccoglossal syndrome
+Corneal lesion
+Cough decreased
+Diarrhoea haemorrhagic
+Muscle haemorrhage
+Biliary colic
+Oesophageal varices haemorrhage
+Enlarged clitoris
+Abortion
+Oesophageal pain
+Asocial behaviour
+Antisocial personality disorder
+Antisocial behaviour
+Ulcer haemorrhage
+Gastric ulcer haemorrhage
+Toe walking
+Genital haemorrhage
+Carcinogenicity
+Urogenital haemorrhage
+Cervix haemorrhage uterine
+Langerhans' cell histiocytosis
+Eosinophilic pneumonia
+Body height decreased
+Hyphaema
+Pulmonary infarction
+White blood cell disorder
+Nail discolouration
+Right ventricular failure
+Metastasis
+Sulphaemoglobinaemia
+Lymphangitis
+Phlebosclerosis
+Pharyngeal disorder
+Conjunctival irritation
+Glucose tolerance decreased
+Tendinous contracture
+Electrocardiogram T wave inversion
+Epidermolysis bullosa
+Hepatic cirrhosis
+Nephrocalcinosis
+Electrolyte depletion
+Metabolic alkalosis
+Hypercoagulation
+Pseudo-Bartter syndrome
+Orthostatic intolerance
+Occipital neuralgia
+Chorioretinitis
+Diabetic retinopathy
+Oesophageal spasm
+Hair disorder
+Nasal obstruction
+Central nervous system neoplasm
+Capillary fragility increased
+Pulmonary thrombosis
+Pericardial rub
+Aura
+Vulvovaginal pain
+Scrotal swelling
+Blood urea abnormal
+Mass
+Diabetic neuropathy
+Lip haemorrhage
+Blood glucose fluctuation
+Penile swelling
+Urogenital disorder
+Retinal oedema
+Fat necrosis
+Myasthenic syndrome
+Alcoholism
+Balanoposthitis
+Hypoglycaemic coma
+Spine malformation
+Hernia congenital
+Cerebrovascular insufficiency
+Benign gastrointestinal neoplasm
+Sensation of pressure
+Impulse-control disorder
+Gastrointestinal hypomotility
+Productive cough
+Tongue dry
+Tracheostomy infection
+Moaning
+Increased viscosity of bronchial secretion
+Parathyroid disorder
+Hyperphosphataemia
+Noninfectious peritonitis
+Peritonitis bacterial
+Fungal peritonitis
+Skin fissures
+Hypertensive nephropathy
+Device interaction
+Blood osmolarity increased
+Infusion related reaction
+Device occlusion
+Catheter site erythema
+Catheter site inflammation
+Catheter site infection
+Sclerosing encapsulating peritonitis
+Exfoliative rash
+Peritoneal cloudy effluent
+Fluid imbalance
+Sinus arrhythmia
+Heat stroke
+Argininosuccinate synthetase deficiency
+Retroperitoneal fibrosis
+Paradoxical pressor response
+Erythema annulare
+Lividity
+Halo vision
+Mucosal pigmentation
+Macular pigmentation
+Radiation skin injury
+Erythema infectiosum
+Skin atrophy
+Aphagia
+Blood iron decreased
+Gastrointestinal ulcer
+Reticulocytopenia
+Nail pigmentation
+Bacteraemia
+Pneumonia bacterial
+Bronchopulmonary dysplasia
+Periventricular leukomalacia
+Mixed connective tissue disease
+Intraventricular haemorrhage
+Wound haemorrhage
+Toxic neuropathy
+Glomerular filtration rate decreased
+Colour blindness acquired
+Schizophrenia
+Repetitive speech
+Obstruction
+Sedation
+Myocardial depression
+Vessel puncture site haemorrhage
+Endotracheal intubation complication
+Renal tubular acidosis
+Anaemia neonatal
+Congestive cardiomyopathy
+Echolalia
+Bundle branch block left
+Acute lymphocytic leukaemia
+Acute promyelocytic leukaemia
+Progressive multifocal leukoencephalopathy
+Premature menopause
+Pelvic neoplasm
+Rickets
+Bundle branch block right
+Portal vein thrombosis
+Brain cancer metastatic
+Metastases to central nervous system
+Aminoaciduria
+Leukoencephalopathy
+Electrocardiogram QRS complex abnormal
+Blood oestrogen decreased
+Blood gonadotrophin increased
+Electrocardiogram ST segment abnormal
+Cerebral arteriosclerosis
+Haematotoxicity
+Febrile bone marrow aplasia
+Ovulation disorder
+Renal rickets
+Bladder irritation
+Electrocardiogram U-wave abnormality
+Ankylosing spondylitis
+Pulmonary vasculitis
+Gastric perforation
+Nephritic syndrome
+Post procedural oedema
+Arterial spasm
+Anosognosia
+Non-cardiogenic pulmonary oedema
+Ventricular hypokinesia
+Compartment syndrome
+Coronary artery thrombosis
+Thyrotoxic crisis
+Blindness cortical
+Tongue paralysis
+White blood cell count increased
+Body temperature fluctuation
+Artery dissection
+Aortic valve stenosis
+Lordosis
+Quadriplegia
+Renal infarct
+Vascular insufficiency
+Vascular pseudoaneurysm
+Vessel perforation
+Brachial plexus injury
+Localised oedema
+Monoparesis
+Rhythm idioventricular
+Breath holding
+Postoperative ileus
+Nicotinic acid deficiency
+Vitamin B6 deficiency
+Sinus rhythm
+Pyogenic granuloma
+Fontanelle bulging
+Haemolysis
+Onycholysis
+Sjogren's syndrome
+Infertility female
+Corneal perforation
+Myopathy toxic
+Mesenteric artery thrombosis
+Drug effect increased
+Facial pain
+Action tremor
+Oscillopsia
+Sudden unexplained death in epilepsy
+Laryngeal neoplasm
+Metaplasia
+Pleural disorder
+Thrombotic thrombocytopenic purpura
+Congenital genitourinary abnormality
+Albumin globulin ratio abnormal
+Oesophageal candidiasis
+Hypovitaminosis
+Red blood cell abnormality
+Disease recurrence
+Blood electrolytes decreased
+Crystal urine present
+Bezoar
+Autoimmune haemolytic anaemia
+Barrett's oesophagus
+B-cell lymphoma
+Cholecystitis acute
+Neutrophil count increased
+Abdominal tenderness
+Mucous stools
+Central obesity
+Colitis microscopic
+Blood gastrin increased
+Gastrointestinal hypermotility
+Drug-induced liver injury
+Acquired immunodeficiency syndrome
+Autoimmune disorder
+Malignant hypertension
+Pustular psoriasis
+Hypouricaemia
+Hepatic enzyme abnormal
+Pre-existing disease
+Sperm concentration
+Juvenile idiopathic arthritis
+Haemorrhagic stroke
+Oestrogen deficiency
+Tumour pain
+Mucosal dryness
+Monocytosis
+Blood albumin increased
+Refractory cytopenia with unilineage dysplasia
+Menstruation delayed
+Diabetic vascular disorder
+PCO2
+Skin maceration
+Chemical injury
+Burns second degree
+Mediastinum neoplasm
+Superior vena cava syndrome
+Skin bacterial infection
+Platelet count normal
+Platelet aggregation inhibition
+Immunology test
+Diffuse alopecia
+Heart rate abnormal
+Squamous cell carcinoma
+Ectropion
+Cardiac valve disease
+Melanocytic naevus
+Pulse pressure decreased
+Pulse abnormal
+Condition aggravated
+Renal function test abnormal
+Antidiuretic hormone abnormality
+Blood antidiuretic hormone abnormal
+Diverticulum intestinal
+Complex partial seizures
+Adenovirus infection
+Cholangitis sclerosing
+Eating disorder
+Guillain-Barre syndrome
+Peptic ulcer perforation
+Pericarditis constrictive
+Rectal polyp
+Pyoderma gangrenosum
+Acute interstitial pneumonitis
+Idiopathic pulmonary fibrosis
+Kidney fibrosis
+Body mass index decreased
+Ear congestion
+Blood creatinine abnormal
+Rectal spasm
+Blood methaemoglobin present
+Pleuropericarditis
+Acetonaemia
+Acute prerenal failure
+Chronic hepatitis
+Muscle mass
+Haemorrhagic urticaria
+Ephelides
+Solar lentigo
+Miliaria
+Cerebral arteritis
+Coma hepatic
+Stereotypy
+Sudden cardiac death
+Benign neoplasm
+Weight gain poor
+Hallucination, tactile
+Hypervigilance
+Therapeutic response decreased
+Drug effect decreased
+Auricular swelling
+Reversible ischaemic neurological deficit
+White blood cell count abnormal
+Sympathomimetic effect
+Depression suicidal
+Obsessive thoughts
+Obsessive rumination
+Tetanus
+Grimacing
+Vulvovaginal disorder
+Candida cervicitis
+Myelofibrosis
+Myeloid metaplasia
+Upper gastrointestinal haemorrhage
+Gingival swelling
+Application site discomfort
+Retrograde amnesia
+Athetosis
+Rhonchi
+Mean arterial pressure
+Mean arterial pressure decreased
+Injection site coldness
+Retinal vein occlusion
+Infusion site reaction
+Blood acid phosphatase increased
+Prostatomegaly
+Orthostatic hypertension
+Autoimmune hepatitis
+Secondary adrenocortical insufficiency
+Blood uric acid decreased
+Skin toxicity
+Mineralocorticoid deficiency
+Endometritis
+Foot and mouth disease
+Breast cancer stage IV
+Lymphocyte count abnormal
+Platelet count abnormal
+Cataplexy
+Psychiatric symptom
+Pseudoporphyria
+Prinzmetal angina
+Parathyroid tumour
+Rheumatic disorder
+Electrocardiogram PR prolongation
+Phonophobia
+Oral pruritus
+Medication overuse headache
+Procedural complication
+Incision site complication
+Post procedural complication
+Basedow's disease
+Insulin resistance
+Lipodystrophy acquired
+Vertical infection transmission
+Lipohypertrophy
+Chronic hepatitis B
+Fat redistribution
+Blood phosphorus decreased
+Erythromelalgia
+Gingival disorder
+Palpable purpura
+Rebound effect
+Gastrooesophageal sphincter insufficiency
+Allergic hepatitis
+Haptoglobin increased
+Venous insufficiency
+Delirium tremens
+Intermittent explosive disorder
+Vulvovaginal swelling
+Acute tonsillitis
+Cervicitis
+Device expulsion
+Papilloma
+Uterine disorder
+Uterine perforation
+Vaginal neoplasm
+Genital ulceration
+Uterine enlargement
+Streptococcal sepsis
+Contact lens intolerance
+Cervix disorder
+Medical device complication
+Smear cervix normal
+Device breakage
+Genital discharge
+Gonorrhoea
+Sexually transmitted disease
+Pertussis
+Chemical eye injury
+Hyposthenuria
+Ear haemorrhage
+Neutrophilia
+Endocarditis
+Muscle injury
+Instillation site irritation
+Muscle enzyme increased
+Carcinoid tumour
+Gastrinoma
+Microcytic anaemia
+Painful respiration
+Optic ischaemic neuropathy
+Mucosal atrophy
+Mucosal discolouration
+Genital disorder female
+Lymphocyte transformation test positive
+Residual urine volume
+Application site vesicles
+Tendon pain
+Coagulation time prolonged
+Retinal vascular disorder
+Ophthalmoplegia
+Injection site thrombosis
+Histoplasmosis
+Meningitis cryptococcal
+Cytomegalovirus chorioretinitis
+Muscle necrosis
+Encephalitis viral
+Pneumocystis jirovecii infection
+Blood fibrinogen decreased
+Walking disability
+Labile blood pressure
+Vitamin K deficiency
+Pulmonary arterial hypertension
+Metabolic encephalopathy
+Pancreatitis chronic
+Oculomucocutaneous syndrome
+Bladder neoplasm
+Volume blood increased
+Glycosylated haemoglobin decreased
+Hepatic enzyme decreased
+Polyserositis
+Narcolepsy
+Haemoglobin normal
+Blood pH decreased
+Carotid pulse
+Hypergammaglobulinaemia
+pH urine decreased
+Pseudocholinesterase deficiency
+Post lumbar puncture syndrome
+Lung cancer metastatic
+Anisocytosis
+Poikilocytosis
+Injection site phlebitis
+Carotid bruit
+Spleen disorder
+Collagen-vascular disease
+Atrial hypertrophy
+Red blood cell count decreased
+Heart sounds abnormal
+Cardioactive drug level above therapeutic
+Eosinophil count increased
+Postoperative fever
+Airway complication of anaesthesia
+Bronchiolitis
+Hypoglycaemic seizure
+Peripheral arterial occlusive disease
+Atrophic glossitis
+Fasting
+Hormone level abnormal
+Electrocardiogram QRS complex prolonged
+Parkinsonian gait
+Drug screen positive
+Diabetic coma
+Diabetic hyperglycaemic coma
+Benign neoplasm of skin
+Cholangitis
+Congenital cystic kidney disease
+Pancreatic disorder
+Ileal ulcer
+Bicytopenia
+Endometrial disorder
+Thrombophlebitis superficial
+Acrodynia
+Bone neoplasm
+Congenital foot malformation
+Cor pulmonale
+Granuloma skin
+Mesenteric occlusion
+Respiratory moniliasis
+Radial nerve palsy
+Normochromic normocytic anaemia
+Prostate cancer
+Adenocarcinoma
+Albinism
+Automatism
+Bronchopneumonia
+Oesophageal motility disorder
+Atrial septal defect
+Hereditary angioedema
+Hyperinsulinism
+Blood insulin increased
+Long QT syndrome
+Myoglobin urine present
+Myoglobinuria
+Pancreatic neoplasm
+Phenylketonuria
+Pituitary tumour benign
+Retinal artery occlusion
+Sarcoidosis
+Injection site abscess
+Injection site cyst
+Injection site necrosis
+Platelet production decreased
+Posture abnormal
+Oropharyngeal spasm
+Tongue spasm
+Laryngotracheal oedema
+Osteodystrophy
+Otitis media chronic
+Risus sardonicus
+Emprosthotonus
+Nasal oedema
+Pleurothotonus
+Injection site ulcer
+Injection site induration
+Injection site haematoma
+Unresponsive to stimuli
+Injection site cellulitis
+Small bowel angioedema
+Long QT syndrome congenital
+Glabellar reflex abnormal
+Postural orthostatic tachycardia syndrome
+Oculorespiratory syndrome
+Acarodermatitis
+Electrocardiogram QT interval abnormal
+Head titubation
+Plateletcrit decreased
+Reproductive toxicity
+Traumatic arthropathy
+Duodenal perforation
+Oral infection
+Calculus bladder
+Breast cyst
+Laryngeal cancer
+Rectal cancer
+Type 2 diabetes mellitus
+Dysentery
+Gallbladder disorder
+Seborrhoeic keratosis
+Actinic keratosis
+Neuroma
+Middle ear effusion
+Poliomyelitis
+Uterine neoplasm
+Vocal cord paralysis
+Fall
+Oesophageal carcinoma
+Monarthritis
+Intervertebral disc degeneration
+Angiomyolipoma
+Gastric haemorrhage
+Therapeutic response increased
+Salivary duct obstruction
+Gastrointestinal stromal tumour
+Anaplastic thyroid cancer
+Groin pain
+Rotator cuff syndrome
+Migraine without aura
+Post procedural infection
+Ischaemic hepatitis
+Brain neoplasm benign
+Abdominal adhesions
+Peritoneal adhesions
+Blood phosphorus increased
+Sudden onset of sleep
+Infected cyst
+Gastritis haemorrhagic
+Dental discomfort
+Fluorosis
+Fluoride increased
+Glomerulonephritis membranoproliferative
+Therapeutic response unexpected
+Vasculitic rash
+Partner stress
+Eosinophilic myocarditis
+Scleral hyperaemia
+Blood parathyroid hormone increased
+Blast cell crisis
+Mastocytosis
+Necrosis ischaemic
+Vitreous haemorrhage
+Tumour necrosis
+Chronic eosinophilic leukaemia
+Haemorrhagic ovarian cyst
+Renal cancer
+Scleral haemorrhage
+Tumour haemorrhage
+Fistula
+Lobar pneumonia
+T-cell lymphoma
+Pelvi-ureteric obstruction
+Enterococcal infection
+Tachyphylaxis
+Myoglobinaemia
+Cluster headache
+Retinal vascular occlusion
+Skin wrinkling
+Aortic aneurysm
+Cerebellar infarction
+Musculoskeletal deformity
+Lymphocyte count decreased
+Application site warmth
+Application site haematoma
+Application site paraesthesia
+Lipoatrophy
+Temporal arteritis
+Nasal inflammation
+Dacryocystitis
+Conjunctival cyst
+Eczema eyelids
+Blepharitis allergic
+Corneal defect
+Application site exfoliation
+Hyperadrenocorticism
+Brain stem glioma
+Partial seizures
+Pneumocystis jirovecii pneumonia
+Multiple congenital abnormalities
+Amyloidosis
+Erythroleukaemia
+Retinitis
+Spleen palpable
+Diverticular perforation
+Bronchopneumopathy
+Embolism arterial
+Bladder disorder
+Intracranial aneurysm
+Toxic shock syndrome
+Eosinophilic cystitis
+Erythrodermic psoriasis
+Eye ulcer
+Traumatic haemorrhage
+Vaginal odour
+Pemphigus
+Elastosis perforans
+Renal cortical necrosis
+Intestinal infarction
+Aortic dissection
+Haemophilia
+Multiple allergies
+Acne cystic
+Morphoea
+Muscle tone disorder
+Iron deficiency
+Blindness day
+Idiosyncratic drug reaction
+Corneal irritation
+Haematospermia
+Lipoedema
+Lip oedema
+Granulocytosis
+Adjustment disorder
+Capillary fragility
+Haemochromatosis
+Mitral valve disease
+Osteosclerosis
+Polycythaemia vera
+Blood pressure diastolic increased
+Basophilia
+Erection increased
+Developmental coordination disorder
+Myoclonic epilepsy
+Hamartoma
+Congenital oral malformation
+Strabismus
+Dentofacial anomaly
+Limb malformation
+Postictal state
+Haemangioma congenital
+Expressive language disorder
+Low set ears
+Supernumerary nipple
+Congenital hydronephrosis
+Congenital vesicoureteric reflux
+Croup infectious
+Developmental hip dysplasia
+Dysmorphism
+Foetal anticonvulsant syndrome
+Cytotoxic oedema
+Allergic granulomatous angiitis
+Haemoglobinaemia
+Binge eating
+Exposure to toxic agent
+Altered visual depth perception
+Microangiopathic haemolytic anaemia
+Fraction of inspired oxygen
+Androgenetic alopecia
+Zinc deficiency
+Blood zinc decreased
+Glomerulonephritis membranous
+Joint hyperextension
+Bone lesion
+Diffuse large B-cell lymphoma
+Compression fracture
+Skin fragility
+Knee deformity
+Calcinosis
+Injection site discomfort
+Parasomnia
+Sleep paralysis
+Hyperparathyroidism
+Drug tolerance decreased
+Congenital limb hyperextension
+Vertebrobasilar insufficiency
+Traumatic lung injury
+Metal poisoning
+Chrysiasis
+Arcus lipoides
+Graft complication
+Arteriovenous fistula thrombosis
+Injection site extravasation
+Injection site discolouration
+Abortion infected
+Barium impaction
+Hypophosphataemic rickets
+Hyperparathyroidism secondary
+Metastases to liver
+Hepatic cancer metastatic
+Amaurosis fugax
+Bladder diverticulum
+Periarthritis
+Alkalosis hypokalaemic
+Cataract subcapsular
+Increased insulin requirement
+Carbohydrate tolerance decreased
+Oesophagitis ulcerative
+Urinary tract pain
+Secondary hypogonadism
+Ovarian neoplasm
+Puerperal pyrexia
+Hepatic neoplasm
+Shunt thrombosis
+Ammonia increased
+Ventricular failure
+Ocular icterus
+Coagulation test abnormal
+Drug administration error
+Corneal abrasion
+Generalised erythema
+Neuromuscular block prolonged
+Conjunctival ulcer
+Small intestine ulcer
+Large intestinal ulcer
+Loeffler's syndrome
+Anaesthetic complication neurological
+Agitation postoperative
+Confusion postoperative
+Nerve conduction studies abnormal
+Monoclonal gammopathy
+Menarche
+Hepatitis chronic active
+Peripheral nerve palsy
+Immune-mediated necrotising myopathy
+Underweight
+Duodenitis haemorrhagic
+Febrile convulsion
+Multiple sclerosis
+Vulvitis
+Uterovaginal prolapse
+Hypertrophic scar
+Application site oedema
+Scrotal pain
+Scrotal erythema
+Scrotal ulcer
+Skin oedema
+Procedural site reaction
+Application site haemorrhage
+Application site inflammation
+Application site hyperaesthesia
+Application site discharge
+Application site scab
+Application site swelling
+Application site scar
+Tinea cruris
+Application site cellulitis
+Scar
+Pulseless electrical activity
+Skin swelling
+Eyelid irritation
+Osteochondrosis
+Uterine polyp
+Fanconi syndrome acquired
+Hypotony of eye
+Staring
+Nephrogenic systemic fibrosis
+Eyelid bleeding
+Sinus operation
+Retinal exudates
+Corneal scar
+Anterior chamber inflammation
+Scleromalacia
+Stomatitis necrotising
+Vascular rupture
+Agoraphobia
+Blood pressure abnormal
+Coccydynia
+Joint contracture
+Eye penetration
+Heat exhaustion
+Humerus fracture
+Jaw disorder
+Kyphosis
+Oral neoplasm
+Tuberculin test positive
+Schizoaffective disorder
+Somatoform disorder
+Body tinea
+Tooth fracture
+Mendelson's syndrome
+Urosepsis
+Urethral discharge
+Clavicle fracture
+Suspiciousness
+Judgement impaired
+Dizziness exertional
+Glycosylated haemoglobin increased
+Skin induration
+Weight fluctuation
+Tonsillar hypertrophy
+Faeces hard
+Early menarche
+Akinaesthesia
+Electrocardiogram T wave amplitude decreased
+Electrocardiogram T wave abnormal
+Pharyngeal erythema
+Ear canal erythema
+Periorbital haematoma
+White blood cells urine positive
+Mobility decreased
+Sleep phase rhythm disturbance
+Blood prolactin decreased
+Blood creatine phosphokinase abnormal
+Blood creatine phosphokinase MB increased
+Blood triglycerides decreased
+Temperature regulation disorder
+Eyelid function disorder
+Mastication disorder
+Diet refusal
+Diabetes mellitus inadequate control
+Urine ketone body present
+Decreased immune responsiveness
+Joint range of motion decreased
+Vessel puncture site bruise
+Spontaneous penile erection
+General physical health deterioration
+Abasia
+Hypophagia
+Bacterial test positive
+Gaze palsy
+Head lag abnormal
+ECG signs of myocardial ischaemia
+Scratch
+Cardiopulmonary failure
+Blood cholesterol decreased
+Waist circumference increased
+Atypical femur fracture
+Hepatitis B e antigen positive
+Anogenital warts
+Syphilis
+Secondary syphilis
+Burning mouth syndrome
+Palmar erythema
+Intertrigo
+Orthopnoea
+Odynophagia
+Injection site infection
+Incisional hernia
+Nipple disorder
+Toxic dilatation of intestine
+Hand and foot syndrome secondary to sickle cell anaemia
+Gastrointestinal motility disorder
+Dysaesthesia pharynx
+Food intolerance
+Bacterial prostatitis
+Growth accelerated
+Haematocrit increased
+Breast induration
+Prostatic dysplasia
+Red blood cell count increased
+Lipids abnormal
+Erythropoiesis abnormal
+Blood testosterone increased
+Oestradiol increased
+Blood testosterone free increased
+Prostate examination abnormal
+Prostate induration
+Application site induration
+Microembolism
+Catheter site pain
+Atypical pneumonia
+Serositis
+Spinal fracture
+Malignant neoplasm progression
+Foreign body in eye
+Pterygium
+Madarosis
+Subconjunctival cyst
+Deposit eye
+Meibomianitis
+Blood chloride increased
+Scleral pigmentation
+Eye allergy
+Optic nerve cupping
+Cardio-respiratory distress
+Polydipsia psychogenic
+Bulimia nervosa
+Paracoccidioides infection
+Periostitis
+Blighted ovum
+Microcytosis
+Duodenal ulcer perforation
+Electrocardiogram QT interval
+Uterine hypertonus
+Mesenteric vascular insufficiency
+Thyroid adenoma
+Hypolipidaemia
+Sudden hearing loss
+Penile haemorrhage
+Limb discomfort
+Small intestinal obstruction
+Insulin C-peptide increased
+Oromandibular dystonia
+Enanthema
+Pneumonia mycoplasmal
+Respiratory syncytial virus infection
+Staphylococcal bacteraemia
+Systemic inflammatory response syndrome
+Parainfluenzae virus infection
+Pneumonia fungal
+Gastroenteritis adenovirus
+Fungal sepsis
+Escherichia sepsis
+Enterococcal bacteraemia
+Escherichia bacteraemia
+Clostridium colitis
+Carotid artery stenosis
+Hypertensive encephalopathy
+Malignant ovarian cyst
+Gastric cancer
+N-acetylglutamate synthase deficiency
+Diastolic hypertension
+Lacunar infarction
+Lumbar radiculopathy
+Paronychia
+Coronary artery occlusion
+Mechanical urticaria
+Urticaria physical
+Blood creatine increased
+Hyposmia
+Gastroenteritis salmonella
+Neoplasm progression
+Left ventricular dysfunction
+Nail infection
+Vein discolouration
+Oral fungal infection
+Neutropenic infection
+Dermatophytosis
+Staphylococcal scalded skin syndrome
+Deficiency of bile secretion
+Panniculitis
+Type IIa hyperlipidaemia
+Clostridial infection
+Dermatitis diaper
+Pelvic abscess
+Pyloric stenosis
+Scleral disorder
+Postoperative wound infection
+Abdominal abscess
+Seroma
+Viral pharyngitis
+Infusion site erythema
+Anastomotic leak
+Incision site haemorrhage
+Infusion site oedema
+Infusion site induration
+Infusion site warmth
+Infusion site swelling
+Infusion site pruritus
+Wound complication
+Gastrointestinal stoma complication
+Urinary sediment present
+Cutis laxa
+Abnormal labour
+Choroidal effusion
+Catheter site related reaction
+Post procedural diarrhoea
+Osmotic demyelination syndrome
+Spondyloarthropathy
+Spinal disorder
+Microalbuminuria
+Pseudohyperkalaemia
+Fungaemia
+Systemic candida
+Frustration
+Urethral syndrome
+Scleral discolouration
+Upper respiratory tract inflammation
+Circadian rhythm sleep disorder
+Ocular vascular disorder
+Peptic ulcer haemorrhage
+Pancreatic carcinoma
+Hypotonic-hyporesponsive episode
+Blood chloride decreased
+Osteocalcin increased
+Blood cortisol decreased
+Cryptosporidiosis infection
+Congenital musculoskeletal anomaly
+Encephalitis cytomegalovirus
+Pharyngeal lesion
+Ischaemic cerebral infarction
+Dementia with Lewy bodies
+Arthritis infective
+Pancreatic pseudocyst
+Retinal tear
+Cholecystitis chronic
+Polyarthritis
+Abdominal hernia
+Vaginal prolapse
+Gouty tophus
+Sputum purulent
+Nail hypertrophy
+Dilatation atrial
+Post thrombotic syndrome
+Anal skin tags
+Venous pressure jugular increased
+Gastroenteritis bacterial
+Gastrointestinal fungal infection
+Blood bicarbonate decreased
+Sputum discoloured
+Puncture site haemorrhage
+Catheter site haemorrhage
+Abdominal strangulated hernia
+Vessel puncture site inflammation
+Connective tissue inflammation
+Peripheral artery aneurysm
+Arthritis bacterial
+Dyspnoea paroxysmal nocturnal
+Keratoacanthoma
+Radiation pneumonitis
+Metastatic renal cell carcinoma
+Squamous cell carcinoma of skin
+International normalised ratio abnormal
+Oesophageal discomfort
+Aortic disorder
+Bronchioloalveolar carcinoma
+Ocular hypertension
+Pseudomonas infection
+Spinal cord compression
+Viraemia
+Pelvic fracture
+Cervical vertebral fracture
+Renal mass
+Warm type haemolytic anaemia
+Transfusion reaction
+Iron overload
+Intracranial venous sinus thrombosis
+Chondrocalcinosis
+Dyssomnia
+Primary hypothyroidism
+Enterobacter sepsis
+Klebsiella sepsis
+Prostate cancer metastatic
+Troponin I increased
+Neutrophilic dermatosis
+Lymphoma cutis
+Calculus ureteric
+Dementia Alzheimer's type
+Aphakia
+Cervical polyp
+Uterine cervical erosion
+Cyclothymic disorder
+Cystocele
+Endometrial neoplasm
+Fibroma
+Female reproductive neoplasm
+Haemarthrosis
+Ophthalmic herpes simplex
+Leiomyoma
+Chronic lymphocytic leukaemia
+Nephrosclerosis
+Pyometra
+Vasomotor rhinitis
+Tricuspid valve incompetence
+Uterine prolapse
+Motor neurone disease
+Clubbing
+Hepatitis B surface antigen positive
+Rectocele
+Anal spasm
+Parathyroid tumour benign
+Microangiopathy
+Varicose veins vulval
+Breast fibrosis
+Uterine mass
+Pulmonary granuloma
+Dactylitis
+Perineal injury
+Fallopian tube cyst
+Uterine cervical squamous metaplasia
+Hypochromasia
+Chorioretinopathy
+Adenomyosis
+Rectal ulcer
+Chest X-ray abnormal
+Smear cervix abnormal
+Genital injury
+Skeletal injury
+Breast disorder female
+Vascular stenosis
+5'nucleotidase increased
+Ultrasound breast abnormal
+Venous thrombosis limb
+Vaginal wall congestion
+Endometrial hypertrophy
+Urinary bladder polyp
+Extremity contracture
+Thoracic vertebral fracture
+Adnexa uteri cyst
+Hydrometra
+Adnexa uteri mass
+Lymphostasis
+Vaginal erosion
+Pedal pulse decreased
+Breast fibroma
+Colpocele
+Ultrasound ovary abnormal
+Malformation venous
+Wandering pacemaker
+Supraventricular tachyarrhythmia
+Bronchiectasis
+Iron binding capacity total
+Urine electrolytes abnormal
+End stage AIDS
+Blood calcium abnormal
+Sensitivity of teeth
+Paraproteinaemia
+Shock haemorrhagic
+Globulins decreased
+Nipple swelling
+Anal abscess
+Sebaceous hyperplasia
+Diastolic dysfunction
+Blood bilirubin unconjugated increased
+Blood insulin decreased
+Gastrointestinal ulcer perforation
+Insulin C-peptide decreased
+Peripheral artery stenosis
+Troponin increased
+Oral papilloma
+Ocular surface disease
+Glomerulonephritis rapidly progressive
+Antineutrophil cytoplasmic antibody positive
+Insulin autoimmune syndrome
+Portal hypertension
+Gastrointestinal necrosis
+Product taste abnormal
+Urate nephropathy
+Penile oedema
+Urticaria vesiculosa
+Protein-losing gastroenteropathy
+Milia
+Neutropenic colitis
+Intra-abdominal haematoma
+Systemic lupus erythematosus rash
+Platelet aggregation abnormal
+Erythrosis
+Enterocolitis infectious
+Genital swelling
+Chylothorax
+Small intestinal perforation
+Bone cancer metastatic
+Blood magnesium decreased
+Blood magnesium increased
+Abdominal wall abscess
+Vena cava thrombosis
+Pelvic venous thrombosis
+Infected bites
+Alanine aminotransferase normal
+Pneumatosis intestinalis
+Venomous bite
+Red man syndrome
+Pancreatitis necrotising
+Helicobacter gastritis
+Gastric ulcer helicobacter
+Uterine atony
+Uterine hypotonus
+Gastric atony
+Respiratory tract infection viral
+Injection site hypersensitivity
+General symptom
+Retinal pigment epithelial tear
+Cytomegalovirus infection
+Glioblastoma
+Histiocytosis
+Cirrhosis alcoholic
+Lymphocele
+Alveolar proteinosis
+Kaposi's sarcoma
+Spondylitis
+Blood luteinising hormone increased
+Hypogonadism male
+Renal vein thrombosis
+Glomerulonephropathy
+Metastatic malignant melanoma
+Lymphorrhoea
+Renal artery thrombosis
+Hepatic artery thrombosis
+Renal haemorrhage
+Perirenal haematoma
+Chronic hepatic failure
+Lymphangioleiomyomatosis
+Lipids increased
+Pulmonary alveolar haemorrhage
+Blood follicle stimulating hormone increased
+Graft loss
+Graft thrombosis
+Colorectal cancer metastatic
+BK virus infection
+Incision site pain
+Perinephric collection
+Localised intraabdominal fluid collection
+Infection reactivation
+Hypovolaemic shock
+Decreased vibratory sense
+Multifocal motor neuropathy
+Allodynia
+Sensorimotor disorder
+Neuromuscular toxicity
+Subcutaneous haematoma
+Colorectal cancer
+Vessel puncture site haematoma
+Application site infection
+Application site pustules
+Aerophagia
+Lower gastrointestinal haemorrhage
+Xanthoma
+Pulmonary function test abnormal
+Carotene decreased
+Neutrophil percentage increased
+Vitamin E decreased
+Vitamin K decreased
+Nasal septum ulceration
+Inappropriate affect
+Intestinal haemorrhage
+Dyspnoea at rest
+Neoplasm prostate
+Vulval abscess
+Balanitis candida
+Genital infection male
+Penile infection
+Genital infection fungal
+Pituitary-dependent Cushing's syndrome
+Large intestine perforation
+Plantar erythema
+Skin depigmentation
+Gastrointestinal fistula
+Enterocutaneous fistula
+Ileal perforation
+Blood cholesterol abnormal
+Eyelash discolouration
+Hyperalbuminaemia
+Bronchial haemorrhage
+Intra-abdominal haemorrhage
+Pharyngeal haemorrhage
+Alanine aminotransferase abnormal
+Spinal haematoma
+Incision site haematoma
+Post procedural haematoma
+Laryngeal haemorrhage
+Spinal cord haemorrhage
+Epiglottitis
+Pancreatic insufficiency
+Retinal ischaemia
+Psychiatric decompensation
+Aspermia
+Oropharyngeal blistering
+Pleural fibrosis
+Lipase abnormal
+Brain stem haemorrhage
+Diabetic nephropathy
+Phimosis
+Asymptomatic bacteriuria
+Reperfusion injury
+Retroperitoneal haematoma
+Puncture site reaction
+Thrombosis in device
+Beckwith-Wiedemann syndrome
+Acrochordon
+Meningocele
+Hydrocele
+Respiratory depth increased
+Administration site infection
+Genital discomfort
+Tympanic membrane hyperaemia
+Polymorphic light eruption
+Diabetic complication
+Infusion site rash
+Poor peripheral circulation
+Amylase decreased
+Cardiac discomfort
+Vascular occlusion
+Cerebral artery stenosis
+Hypnopompic hallucination
+Pituitary haemorrhage
+Pituitary infarction
+Metastases to spine
+Urethral obstruction
+Dysstasia
+Lymphocyte count increased
+Metastatic pain
+Hormone-dependent prostate cancer
+Breast atrophy
+Pneumomediastinum
+Anal inflammation
+Aspergilloma
+Tracheal fistula
+Activated partial thromboplastin time shortened
+Prehypertension
+Chronic myelomonocytic leukaemia
+Oropharyngeal squamous cell carcinoma
+Bowen's disease
+Fat embolism
+Myocardial rupture
+Low birth weight baby
+Adrenocortical insufficiency acute
+Vitreous opacities
+Steroid withdrawal syndrome
+Cushingoid
+Scleral thinning
+Anterior chamber flare
+Anterior chamber cell
+Device dislocation
+Retinal aneurysm
+Complication of device insertion
+Paraparesis
+Acne infantile
+Pancreatitis haemorrhagic
+Application site folliculitis
+Cervical discharge
+Postmenopausal haemorrhage
+Meningioma
+Withdrawal bleed
+Uterine cancer
+Benign vaginal neoplasm
+Reproductive tract disorder
+Breast oedema
+Vaginal ulceration
+Breast malformation
+Ectropion of cervix
+Malignant mesenchymoma
+Uterine pain
+Blood oestrogen increased
+Retinal vascular thrombosis
+Pleural infection
+Vaginismus
+Abnormal withdrawal bleeding
+Craniosynostosis
+Epiphysiolysis
+Yellow nail syndrome
+Goodpasture's syndrome
+Adrenal atrophy
+Ischaemic neuropathy
+Eosinopenia
+Oropharyngeal candidiasis
+Substance-induced psychotic disorder
+Lyme disease
+Relapsing fever
+Jarisch-Herxheimer reaction
+Coombs positive haemolytic anaemia
+Platelet dysfunction
+Hoigne's syndrome
+Paroxysmal nocturnal haemoglobinuria
+Grey syndrome neonatal
+Reaction to drug excipients
+Pneumonia streptococcal
+Assisted fertilisation
+Free prostate-specific antigen increased
+Gingival recession
+Leukoplakia
+Male orgasmic disorder
+Spermatocele
+Varicocele
+Epiphyses premature fusion
+Clitoral engorgement
+Soft tissue disorder
+Wernicke-Korsakoff syndrome
+Gingival oedema
+Haemoglobin abnormal
+Blood urea normal
+Penile pain
+Prostatic adenoma
+Pulmonary microemboli
+Buccal mucosal roughening
+Abnormal clotting factor
+Gingival erythema
+Gingival blister
+Impatience
+Pulmonary oil microembolism
+Myringitis
+External ear disorder
+Choroidal detachment
+Anovulatory cycle
+Sexually active
+Thrombosis mesenteric vessel
+Benign hepatic neoplasm
+Forced expiratory volume decreased
+Morbid thoughts
+Hernia pain
+Fungal test positive
+Post-tussive vomiting
+Abortion missed
+Cataract diabetic
+Oesophageal atresia
+Congenital megacolon
+Polyhydramnios
+Hydrops foetalis
+Neurofibroma
+Turner's syndrome
+Spina bifida
+Injection site atrophy
+Cerebral venous thrombosis
+Vaginal dysplasia
+Congenital diaphragmatic hernia
+Sickle cell anaemia with crisis
+Limb deformity
+Vaginal cyst
+Ear malformation
+Uterine cyst
+Cervix carcinoma
+Progesterone
+Benign hydatidiform mole
+Adrenal disorder
+Vaginal mucosal blistering
+Single umbilical artery
+Neuropathic arthropathy
+Lipomatosis
+Injection site exfoliation
+Urine calcium increased
+Latent tuberculosis
+Epidural lipomatosis
+Pulse absent
+Uterine contractions during pregnancy
+Refractory anaemia with an excess of blasts
+Blastomycosis
+Toxoplasmosis
+Myelodysplastic syndrome transformation
+Abscess limb
+Leukaemia cutis
+Vascular dementia
+Joint instability
+Spermatozoa abnormal
+Foetal chromosome abnormality
+Skin erosion
+Chlamydial infection
+Chemical peritonitis
+Linear IgA disease
+Mitochondrial toxicity
+Viral skin infection
+Catheter site cellulitis
+Conjunctivitis bacterial
+Acute stress disorder
+Intestinal mass
+Genital lesion
+Gastrointestinal neoplasm
+Bartholin's cyst
+Joint lock
+Splenic peliosis
+Vulvovaginitis trichomonal
+Vulvovaginal erythema
+Insulinoma
+Shock hypoglycaemic
+Pulmonary mass
+Leukoplakia oral
+Gastritis erosive
+Proctitis ulcerative
+Application site atrophy
+Asteatosis
+Mucocutaneous candidiasis
+Cystoid macular oedema
+Bronchial obstruction
+Face injury
+Herpangina
+Rectal prolapse
+Tendon injury
+Pyelonephritis chronic
+Temporomandibular joint syndrome
+Joint crepitation
+Mammogram abnormal
+Back disorder
+Joint effusion
+Hand fracture
+Blood potassium abnormal
+Blood glucose abnormal
+Alanine aminotransferase decreased
+Aspartate aminotransferase decreased
+Lip blister
+Food aversion
+Postoperative wound complication
+Band neutrophil count increased
+Red cell distribution width increased
+Analgesic therapy
+Mean platelet volume decreased
+Genitourinary tract infection
+Immunoglobulins increased
+Metabolic syndrome
+Deafness unilateral
+Ascariasis
+Type 1 diabetes mellitus
+Periodontal disease
+Cutaneous sarcoidosis
+Vogt-Koyanagi-Harada syndrome
+Enterobiasis
+Mononeuropathy
+CD4 lymphocytes decreased
+Psychiatric evaluation abnormal
+Thyroglobulin increased
+Anti-thyroid antibody positive
+Injection site dryness
+Tongue pigmentation
+Coombs direct test positive
+Eclampsia
+Genital disorder male
+Laryngeal disorder
+Postpartum disorder
+Sweat gland disorder
+Tooth malformation
+Premature baby
+Premature delivery
+Adrenergic syndrome
+Negativism
+Traumatic fracture
+Male sexual dysfunction
+Obsessive-compulsive personality disorder
+Renovascular hypertension
+Oligohydramnios
+Haemothorax
+Bone sarcoma
+Muscle swelling
+Ectopic ACTH syndrome
+Multiparous
+Uterine rupture
+Adrenal gland cancer
+Implant site reaction
+Breast cancer male
+Factor VIII deficiency
+Gastric ulcer perforation
+Acquired haemophilia
+Hyperamylasaemia
+Pancreatic enzymes abnormal
+Genitourinary tract neoplasm
+Anophthalmos
+Lipidosis
+Hepatitis C antibody positive
+Peritonsillar abscess
+Tympanic membrane disorder
+Facial neuralgia
+VIth nerve paralysis
+Dysacusis
+Hypoglycaemic unconsciousness
+Erythrasma
+Nicotine dependence
+Tobacco poisoning
+Tobacco withdrawal symptoms
+Psychosexual disorder
+Tinea infection
+Bilirubin conjugated increased
+Burkitt's lymphoma
+Stress fracture
+Nocardiosis
+Hidradenitis
+Pneumonia cytomegaloviral
+Hepatic atrophy
+Soft tissue necrosis
+Herpes simplex hepatitis
+Chronic sinusitis
+Angiodermatitis
+Myofascial pain syndrome
+Ventricular flutter
+Rash scarlatiniform
+Bronchial disorder
+Chronic fatigue syndrome
+Genital herpes
+Ophthalmic herpes zoster
+Meningoencephalitis herpetic
+Plasma cell leukaemia
+Listeriosis
+Mastoiditis
+Mycosis fungoides
+Post herpetic neuralgia
+Radiculitis
+Salivary gland disorder
+Vitamin B complex deficiency
+Synovial cyst
+Epstein-Barr virus infection
+Vulval ulceration
+Hyperviscosity syndrome
+Hepatic haemorrhage
+Epididymal tenderness
+Cardiac amyloidosis
+Cytomegalovirus hepatitis
+Mantle cell lymphoma
+Large intestinal obstruction
+Blood gases abnormal
+Eyelid infection
+Jessner's lymphocytic infiltration
+Vestibular neuronitis
+Dacryoadenitis acquired
+Blood test abnormal
+Hepatic vein occlusion
+Budd-Chiari syndrome
+Anal sphincter atony
+Lymphocytic infiltration
+Brain stem syndrome
+Blood uric acid abnormal
+Platelet aggregation increased
+Deafness bilateral
+Molluscum contagiosum
+Xanthomatosis
+Retinogram abnormal
+AIDS dementia complex
+Pneumoperitoneum
+Volvulus
+Catheter site phlebitis
+Epidermal growth factor receptor decreased
+Posterior capsule opacification
+Eczema infected
+Agnosia
+Fasciitis
+Hypervitaminosis A
+Ochronosis
+Osteitis
+Retinoic acid syndrome
+Slow speech
+Bullous impetigo
+Kaposi's varicelliform eruption
+Urge incontinence
+Fat tissue increased
+Netherton's syndrome
+Bile duct stenosis
+Gastrooesophagitis
+Echocardiogram abnormal
+Dysgraphia
+Herpes dermatitis
+Eczema herpeticum
+Graft dysfunction
+Hypoprothrombinaemia
+Factor II deficiency
+Cardiac hypertrophy
+Subacute endocarditis
+Atypical mycobacterial infection
+Urethral stenosis
+Venous pressure increased
+Cytomegalovirus colitis
+Parotid duct obstruction
+Complications of transplant surgery
+Cytomegalovirus gastritis
+Renal graft loss
+Polyomavirus-associated nephropathy
+Genetic polymorphism
+Sinusitis bacterial
+Mycobacterium test
+Mycobacterium avium complex infection
+Blood bicarbonate increased
+Colonic abscess
+Blood bilirubin decreased
+Bronchopulmonary aspergillosis
+Radiation myelopathy
+Muscle fibrosis
+Transplant rejection
+Blood gonadotrophin decreased
+Urinary tract obstruction
+Hyperproteinaemia
+Glucocorticoids decreased
+Drug level changed
+Severe acute respiratory syndrome
+Aortic valve sclerosis
+Autoimmune thrombocytopenia
+Evans syndrome
+HIV associated nephropathy
+Application site urticaria
+Staphylococcal skin infection
+Meningioma benign
+Abdominal neoplasm
+Meningitis viral
+Sweat gland tumour
+Tongue neoplasm
+Proctitis herpes
+Infective myositis
+Anaplastic large-cell lymphoma
+Cholangiocarcinoma
+Bronchitis bacterial
+Anal cancer
+Metastases to peritoneum
+Bile duct cancer
+Neisseria infection
+Sinobronchitis
+Aortic arteriosclerosis
+Nasopharyngeal cancer
+Blood copper decreased
+Copper deficiency
+Menopausal disorder
+Embolic stroke
+Premature separation of placenta
+Anaphylactoid syndrome of pregnancy
+Foetal heart rate
+Postpartum haemorrhage
+Failed induction of labour
+High turnover osteopathy
+Brown tumour
+Calcification metastatic
+Calcium intoxication
+Pneumopericardium
+Hypertrophic osteoarthropathy
+Scrotal disorder
+Peritonsillitis
+Device malfunction
+Penile curvature
+Penile haematoma
+Vascular calcification
+Hypervitaminosis D
+Streptobacillary fever
+Septic arthritis streptobacillus
+Hyperfibrinogenaemia
+Blood fibrinogen increased
+Pelvic haemorrhage
+Malignant transformation
+Abdominal injury
+Hepatic infiltration eosinophilic
+Reticuloendothelial system stimulated
+Renal abscess
+Immunoglobulins decreased
+Shift to the left
+Retinal pigmentation
+Eye naevus
+Lid sulcus deepened
+Growth of eyelashes
+Iris hyperpigmentation
+Anterior chamber pigmentation
+Eyelash thickening
+Eyelid pain
+Pigment dispersion syndrome
+Dark circles under eyes
+Nail dystrophy
+Acne fulminans
+Excessive granulation tissue
+Retained placenta or membranes
+Cardiac enzymes increased
+Abortion incomplete
+Ureteral spasm
+Chalazion
+Senile ankylosing vertebral hyperostosis
+Adenocarcinoma pancreas
+Monocyte count decreased
+Hepatitis F
+Puncture site pain
+Cheyne-Stokes respiration
+Bedridden
+Breakthrough pain
+Tumour invasion
+Community acquired infection
+Alcoholic psychosis
+Somatic hallucination
+Alcohol withdrawal syndrome
+Post procedural constipation
+Focal segmental glomerulosclerosis
+Mycobacterial infection
+Congenital arterial malformation
+Chronic allograft nephropathy
+Post transplant lymphoproliferative disorder
+Presbyopia
+Acidosis hyperchloraemic
+Distractibility
+Scintillating scotoma
+Upper motor neurone lesion
+Food interaction
+Ketogenic diet
+Essential tremor
+Familial tremor
+Blood bicarbonate
+Learning disability
+Lack of spontaneous speech
+Orgasmic sensation decreased
+Tandem gait test abnormal
+Koebner phenomenon
+Prolonged labour
+Enophthalmos
+Trichorrhexis
+Blepharal pigmentation
+Conjunctival bleb
+Eyelash hyperpigmentation
+Aspartate aminotransferase normal
+Female orgasmic disorder
+Liver abscess
+Rectal abscess
+Gingival abscess
+Apoptosis
+Anal fistula
+Pancreatic abscess
+Perineal abscess
+Splinter haemorrhages
+Abdominal sepsis
+Candida sepsis
+Dyshidrotic eczema
+Pupillary disorder
+Chest X-ray normal
+Blood creatinine normal
+Fructose intolerance
+Hypoperfusion
+Intertrigo candida
+Abdominal infection
+Foetal damage
+Carotid artery thrombosis
+Cervix neoplasm
+Splenic rupture
+Nasal septum disorder
+Electrocardiogram QT shortened
+Retinal depigmentation
+Carotid artery occlusion
+Intestinal stenosis
+Calcium metabolism disorder
+Thyroid cancer
+Visual brightness
+Chronic leukaemia
+Colon cancer
+Choluria
+Tinea versicolour
+Radicular pain
+Eosinophilic pustular folliculitis
+Blood cortisol increased
+Extranodal NK/T-cell lymphoma, nasal type
+Malignant histiocytosis
+Implant site pain
+Pseudomonal sepsis
+Infusion site infection
+Semen volume decreased
+Tongue geographic
+Oral mucosal exfoliation
+Disseminated tuberculosis
+Acne pustular
+Oral mucosa erosion
+Nail bed infection
+Mucosal erosion
+Salmonella sepsis
+Congenital renal cyst
+Pulpitis dental
+Photoonycholysis
+Haemobilia
+Protein C deficiency
+Psoriatic arthropathy
+Diabetic foot infection

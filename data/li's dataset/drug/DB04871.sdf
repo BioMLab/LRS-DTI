@@ -1,0 +1,171 @@
+11658860
+  -OEChem-12112521552D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+    7.4747    0.5367    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6200   -0.4875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0288    0.6360    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.8106    0.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539    0.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8106   -0.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0288   -1.6110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539   -1.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2513    1.6110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7046    0.5472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7046   -1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6107    0.0334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6107   -1.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5904    1.0744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539    1.0335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4494    0.5515    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7598   -2.1696    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5136   -1.9975    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4494   -1.5264    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539   -2.0084    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4875    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8558    1.4730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3893    2.2154    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6469    1.7489    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6974    1.1672    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6974   -2.1421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1464   -1.3204    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  6  0  0  0
+  3 14  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+11658860
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+171
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByAAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAABYAAAAABAAAAHAIQAAAADQLBGCQyAILAAACAAiBCAAACAAAgBQAIiIAIAogIICKBkxGEIAAgkACIiAcQgMAOhAAAIAAQAAAIAABAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(5R)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(5R)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(5<I>R</I>)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1<I>H</I>-3-benzazepine
+
+> <PUBCHEM_IUPAC_NAME>
+(5R)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(5R)-7-chloranyl-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(5R)-7-chloro-5-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H14ClN/c1-8-7-13-5-4-9-2-3-10(12)6-11(8)9/h2-3,6,8,13H,4-5,7H2,1H3/t8-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XTTZERNUQAFMOF-QMMMGPOBSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.7
+
+> <PUBCHEM_EXACT_MASS>
+195.0814771
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H14ClN
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+195.69
+
+> <PUBCHEM_SMILES>
+C[C@H]1CNCCC2=C1C=C(C=C2)Cl
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC1CNCCC2=C1C=C(C=C2)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+12
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+195.0814771
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  13  8
+12  13  8
+3  9  6
+4  10  8
+4  6  8
+6  11  8
+
+$$$$

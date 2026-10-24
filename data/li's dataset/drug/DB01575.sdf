@@ -1,0 +1,134 @@
+92024769
+  -OEChem-12112521502D
+
+ 17 12  0     0  0  0  0  0  0999 V2000
+    4.0739    1.0000    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    5.5739    1.8660    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    0.0000    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    5.2079    3.2321    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    5.0739    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.0739    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.0739    2.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7079    2.3660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.0739    2.7321    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4399    1.3660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.6160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7569    5.2321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739    2.9260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2938    5.5421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2200    5.5421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  CHG  8   3   3   4   3   6  -1   7  -1   8  -1   9  -1  10  -1  11  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+92024769
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+72.1
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYAAPAwAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dialuminum;trioxido(trioxidosilyloxy)silane;dihydrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dialuminum;trioxido(trioxidosilyloxy)silane;dihydrate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dialuminum;trioxido(trioxidosilyloxy)silane;dihydrate
+
+> <PUBCHEM_IUPAC_NAME>
+dialuminum;trioxido(trioxidosilyloxy)silane;dihydrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dialuminum;tris(oxidanidyl)-tris(oxidanidyl)silyloxy-silane;dihydrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dialuminum;trioxido(trioxidosilyloxy)silane;dihydrate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Al.O7Si2.2H2O/c;;1-8(2,3)7-9(4,5)6;;/h;;;2*1H2/q2*+3;-6;;
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KGOIAFZMMLWXLM-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+257.902462
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Al2H4O9Si2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+258.16
+
+> <PUBCHEM_SMILES>
+O.O.[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-].[Al+3].[Al+3]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+O.O.[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-].[Al+3].[Al+3]
+
+> <PUBCHEM_CACTVS_TPSA>
+150
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+257.902462
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+5
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

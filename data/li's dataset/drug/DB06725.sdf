@@ -1,0 +1,188 @@
+54690031
+  -OEChem-12112522002D
+
+ 33 35  0     1  0  0  0  0  0999 V2000
+    9.7260   -1.0670    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.0670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1424   -0.2623    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301   -2.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -2.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.5670    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.9330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.9330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1424   -1.8717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7260   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321    2.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3350   -2.4610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881   -1.5301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611   -2.3770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081   -2.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    2.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    2.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 18  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 29  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 22  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 30  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 31  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+54690031
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+634
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOABkAAAAAAAAAAAAAAAAASAAAAAsQAAAAAAAAEAB4AAAHgYQSAAACA7B0iQ/sZLIEgqsADd3dHDDgLkxLzBJ2Di4btiIZuLhm7GUcAhs1QPo2SaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+6-chloro-4-hydroxy-2-methyl-1,1-dioxo-N-(2-pyridyl)thieno[2,3-e]thiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+6-chloro-4-hydroxy-2-methyl-1,1-dioxo-N-(2-pyridinyl)-3-thieno[2,3-e]thiazinecarboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+6-chloro-4-hydroxy-2-methyl-1,1-dioxo-<I>N</I>-pyridin-2-ylthieno[2,3-e]thiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+6-chloro-4-hydroxy-2-methyl-1,1-dioxo-N-pyridin-2-ylthieno[2,3-e]thiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+6-chloranyl-2-methyl-4-oxidanyl-1,1-bis(oxidanylidene)-N-pyridin-2-yl-thieno[2,3-e][1,2]thiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+6-chloro-4-hydroxy-1,1-diketo-2-methyl-N-(2-pyridyl)thieno[2,3-e]thiazine-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H10ClN3O4S2/c1-17-10(13(19)16-9-4-2-3-5-15-9)11(18)12-7(23(17,20)21)6-8(14)22-12/h2-6,18H,1H3,(H,15,16,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+WLHQHAUOOXYABV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.1
+
+> <PUBCHEM_EXACT_MASS>
+370.9801258
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H10ClN3O4S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+371.8
+
+> <PUBCHEM_SMILES>
+CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
+
+> <PUBCHEM_CACTVS_TPSA>
+136
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+370.9801258
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  19  8
+10  22  8
+11  13  8
+11  15  8
+15  18  8
+19  20  8
+20  21  8
+21  23  8
+22  23  8
+3  13  8
+3  18  8
+
+$$$$

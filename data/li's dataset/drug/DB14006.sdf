@@ -1,0 +1,184 @@
+54686350
+  -OEChem-12112522212D
+
+ 36 35  0     0  0  0  0  0  0999 V2000
+    4.0010    1.9030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7015    7.4259    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2996    8.9259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5675    8.9259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.4030    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    0.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4335    7.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5675    6.9259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2996    6.9259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5675    5.9259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2996    5.9259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4335    5.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4335    8.4259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    2.3779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    2.3779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    1.4399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    0.3660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4399    2.5790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5930    2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3660    1.9590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3660    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2130    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4399    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7365    0.9280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5335    0.9280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    1.5930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8365    7.2359    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0306    5.6159    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8365    5.6159    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4335    4.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2996    9.5459    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 35  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+54686350
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+179
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAACAAADAThmAYyDoMAAgCIAiDSCAACAAAkIAAIiAEOCMgKNzaAFRKAcUAl4BEYmYeIyCCOAAAAAAAIAAAAAAAAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)ammonium
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)ammonium
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)azanium
+
+> <PUBCHEM_IUPAC_NAME>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)azanium
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)azanium
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-carboxyphenolate;2-hydroxyethyl(trimethyl)ammonium
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H6O3.C5H14NO/c8-6-4-2-1-3-5(6)7(9)10;1-6(2,3)4-5-7/h1-4,8H,(H,9,10);7H,4-5H2,1-3H3/q;+1/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+UDKCHVLMFQVBAA-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+241.13140809
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H19NO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+241.28
+
+> <PUBCHEM_SMILES>
+C[N+](C)(C)CCO.C1=CC=C(C(=C1)C(=O)O)[O-]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C[N+](C)(C)CCO.C1=CC=C(C(=C1)C(=O)O)[O-]
+
+> <PUBCHEM_CACTVS_TPSA>
+80.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+241.13140809
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+11  13  8
+12  14  8
+13  15  8
+14  16  8
+15  16  8
+
+$$$$

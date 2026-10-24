@@ -1,0 +1,186 @@
+56649692
+  -OEChem-12112522172D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    3.4782    0.0895    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7788   -0.9050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128   -2.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5109    2.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147    0.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7788    2.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -1.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -0.9050    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.7788    0.0950    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.6449    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -0.9050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6449    1.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4487   -1.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5827   -0.9050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6691   -1.3117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000    0.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128   -1.4050    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8347    0.6776    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4362   -0.0127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3113    1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5143    1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -1.5250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3158   -0.2150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8569    0.0124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2554    0.7027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -2.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0502   -1.8800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8472   -1.8800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4497   -2.7150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5402   -1.9182    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5109    2.7150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834   -0.6334    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2478    0.8638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 20  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 34  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 14  2  0  0  0  0
+ 10  7  1  1  0  0  0
+  7 13  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 26  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+56649692
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+370
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceJyOABAAAAAAAAAAAAAAAAAASAAAAAkAAAAAAAAAAABgAAoHgQQCAAACBTl0AawCYLAAgiMACHSGAADAIAgCBBIiJkIAIgIIDaglRGEQAAltgCoiAe4SAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[(3R,6S)-2-hydroxy-3-[[2-(2-thienyl)acetyl]amino]oxaborinan-6-yl]acetic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[(3R,6S)-2-hydroxy-3-[(1-oxo-2-thiophen-2-ylethyl)amino]-6-oxaborinanyl]acetic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-[(3<I>R</I>,6<I>S</I>)-2-hydroxy-3-[(2-thiophen-2-ylacetyl)amino]oxaborinan-6-yl]acetic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-[(3R,6S)-2-hydroxy-3-[(2-thiophen-2-ylacetyl)amino]oxaborinan-6-yl]acetic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[(3R,6S)-2-oxidanyl-3-(2-thiophen-2-ylethanoylamino)-1,2-oxaborinan-6-yl]ethanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[(3R,6S)-2-hydroxy-3-[[2-(2-thienyl)acetyl]amino]oxaborinan-6-yl]acetic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H16BNO5S/c15-11(7-9-2-1-5-20-9)14-10-4-3-8(6-12(16)17)19-13(10)18/h1-2,5,8,10,18H,3-4,6-7H2,(H,14,15)(H,16,17)/t8-,10-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IOOWNWLVCOUUEX-WPRPVWTQSA-N
+
+> <PUBCHEM_EXACT_MASS>
+297.0842240
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H16BNO5S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+297.14
+
+> <PUBCHEM_SMILES>
+B1([C@H](CC[C@H](O1)CC(=O)O)NC(=O)CC2=CC=CS2)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+B1(C(CCC(O1)CC(=O)O)NC(=O)CC2=CC=CS2)O
+
+> <PUBCHEM_CACTVS_TPSA>
+124
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+297.0842240
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  16  8
+1  19  8
+11  12  5
+16  17  8
+17  18  8
+18  19  8
+10  7  5
+
+$$$$

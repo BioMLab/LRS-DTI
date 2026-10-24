@@ -1,0 +1,184 @@
+54710212
+  -OEChem-12112522212D
+
+ 35 35  0     1  0  0  0  0  0999 V2000
+    7.8358    2.3265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1607    4.4143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2667    2.6355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8928    5.4143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9390    0.5664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1145    0.5664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.6121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.6121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.6121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0268    2.9143    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.0268    3.9143    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.2177    2.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8928    4.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5268    1.3754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5268    1.3754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.6121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.6121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    1.6121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    4.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7841    3.3002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0268    4.5343    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1048    3.8317    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5034    4.5219    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1607    5.0343    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059    2.2206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4297    5.7243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1911    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059    2.9221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.3021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    0.4921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.2321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059    4.3021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+ 11  2  1  1  0  0  0
+  2 26  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 20  2  0  0  0  0
+  8 18  1  0  0  0  0
+  8 21  2  0  0  0  0
+  9 20  1  0  0  0  0
+  9 34  1  0  0  0  0
+  9 35  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 22  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+54710212
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+346
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAAQAAAAAsAAAAAAAAAAABgAAAHgAQCAAADBThmgY8iJJIFgCoAjH3XAKCgCA1IiAI2CF4ZNgJNPrA9ZGGcYhlwADL6cZYAQAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one;pyridine-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one;3-pyridinecarboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>)-2-[(1<I>S</I>)-1,2-dihydroxyethyl]-3,4-dihydroxy-2<I>H</I>-furan-5-one;pyridine-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one;pyridine-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-2-[(1S)-1,2-bis(oxidanyl)ethyl]-3,4-bis(oxidanyl)-2H-furan-5-one;pyridine-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one;nicotinamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H6N2O.C6H8O6/c7-6(9)5-2-1-3-8-4-5;7-1-2(8)5-3(9)4(10)6(11)12-5/h1-4H,(H2,7,9);2,5,7-10H,1H2/t;2-,5+/m.0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+JMORAWFVNMGOKQ-MGMRMFRLSA-N
+
+> <PUBCHEM_EXACT_MASS>
+298.08010079
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14N2O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+298.25
+
+> <PUBCHEM_SMILES>
+C1=CC(=CN=C1)C(=O)N.C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1=CC(=CN=C1)C(=O)N.C(C(C1C(=C(C(=O)O1)O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+163
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+298.08010079
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  22  6
+16  17  8
+16  18  8
+17  19  8
+19  21  8
+11  2  5
+8  18  8
+8  21  8
+
+$$$$

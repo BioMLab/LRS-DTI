@@ -1,0 +1,199 @@
+2161
+  -OEChem-12112521402D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    6.3981   -1.3460    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    1.6540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9243    1.6781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7961    0.1815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1580   -1.3807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9282   -1.3702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8680    0.6781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.1748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6381    0.6886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    0.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8718    1.6781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6381   -1.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641   -0.8460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1580    0.6886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0641    0.1748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0641   -0.8668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9282    0.6781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3322    0.9902    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453    1.3086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1963   -1.1789    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6921    0.7196    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4619   -0.1265    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -0.3567    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4918    1.6757    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8742    2.2981    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2518    1.6805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453   -2.0007    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1509    1.3086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9258   -1.9902    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4663   -1.0623    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4601    1.9902    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 22  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4 22  2  0  0  0  0
+  5 18  2  0  0  0  0
+  5 21  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 34  1  0  0  0  0
+  6 35  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+2161
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+467
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7OAAAAAAAAAAAAAAAAAAAAAAAAAA8SIAAAAAAAACxwAAAHgAQCAAADQSBmgAzvpJIFgCoAqLybACCiCklICAImCEmTNiMJv7EtZuOeejm4BPI+eeY//quoAACAAAIAABAAAQAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-amino-7-isopropyl-5-oxo-chromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-amino-5-oxo-7-propan-2-yl-3-[1]benzopyrano[2,3-b]pyridinecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-amino-5-oxo-7-propan-2-ylchromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-amino-5-oxo-7-propan-2-ylchromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azanyl-5-oxidanylidene-7-propan-2-yl-chromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-amino-7-isopropyl-5-keto-chromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14N2O4/c1-7(2)8-3-4-12-9(5-8)13(19)10-6-11(16(20)21)14(17)18-15(10)22-12/h3-7H,1-2H3,(H2,17,18)(H,20,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SGRYPYWGNKJSDL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+298.09535693
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14N2O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+298.29
+
+> <PUBCHEM_SMILES>
+CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+103
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+298.09535693
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  18  8
+11  17  8
+12  17  8
+13  14  8
+13  18  8
+13  19  8
+19  20  8
+20  21  8
+5  18  8
+5  21  8
+8  10  8
+8  12  8
+9  10  8
+9  11  8
+9  14  8
+
+$$$$

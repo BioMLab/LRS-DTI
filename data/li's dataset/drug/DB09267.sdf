@@ -1,0 +1,172 @@
+6918182
+  -OEChem-12112522092D
+
+ 31 29  0     0  0  0  0  0  0999 V2000
+    3.6310   -3.5866    0.0000 Sr  0  2  0  0  0  0  0  0  0  0  0  0
+    6.0611    3.5866    0.0000 Sr  0  2  0  0  0  0  0  0  0  0  0  0
+    4.4935    0.5986    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1372    3.2039    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7545    2.2801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6310   -3.5866    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9239   -2.8795    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.2620   -3.2622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9849    3.2039    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.3676    2.2801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6310   -1.1724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4990   -1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0137   -0.2485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0611    0.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -0.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1372    1.3562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3381   -1.8795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6310   -1.1724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9849    1.3562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7545    2.2801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3381   -2.8795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9239   -1.8795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7398   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3676    2.2801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.0400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6481   -1.3426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7915   -0.5735    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0941   -0.8624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0659    0.7415    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5996    1.2753    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3 14  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 21  2  0  0  0  0
+  6 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 22  2  0  0  0  0
+  9 23  2  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 25  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 24  3  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 20 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+M  CHG  6   1   2   2   2   4  -1   6  -1   7  -1  10  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6918182
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+533
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+11
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBzPABAAAAABAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAHgQAAAAADADB2AQAiYMAAAicBgDQSACjAIBlCBgAiBGITMgKpjLglLGEEQhkwAH4yQ6YNwIOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+distrontium;5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyano-thiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+distrontium;5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyano-2-thiophenecarboxylate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+distrontium;5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyanothiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_NAME>
+distrontium;5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyanothiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+distrontium;5-[bis(2-oxidanidyl-2-oxidanylidene-ethyl)amino]-4-cyano-3-(2-oxidanidyl-2-oxidanylidene-ethyl)thiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+distrontium;5-[bis(carboxylatomethyl)amino]-3-(carboxylatomethyl)-4-cyano-2-thenoate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H10N2O8S.2Sr/c13-2-6-5(1-7(15)16)10(12(21)22)23-11(6)14(3-8(17)18)4-9(19)20;;/h1,3-4H2,(H,15,16)(H,17,18)(H,19,20)(H,21,22);;/q;2*+2/p-4
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XXUZFRDUEGQHOV-UHFFFAOYSA-J
+
+> <PUBCHEM_EXACT_MASS>
+513.7957108
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H6N2O8SSr2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+513.5
+
+> <PUBCHEM_SMILES>
+C(C1=C(SC(=C1C#N)N(CC(=O)[O-])CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Sr+2].[Sr+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(C1=C(SC(=C1C#N)N(CC(=O)[O-])CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Sr+2].[Sr+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+216
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+513.7957108
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+25
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+14  16  8
+15  16  8
+15  17  8
+3  14  8
+3  17  8
+
+$$$$

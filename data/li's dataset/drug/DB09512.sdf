@@ -1,0 +1,164 @@
+6433516
+  -OEChem-12112522112D
+
+ 31 29  0     0  0  0  0  0  0999 V2000
+    4.0010    1.4030    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.4030    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7020    5.3059    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.9030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    0.9030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680    5.8059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8360    4.8059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    0.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5010    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5010    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7690    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7690    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    1.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5571    0.3660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4040    0.5930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1771    1.4399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0380    1.9590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8110    2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9641    2.5790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9641    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1910    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0380    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059    2.5790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4590    2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2321    1.9590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2321    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3059    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    1.9399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.7130    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    0.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  5 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6433516
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+125
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBgOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhAAAEAAAAAAAAJCAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dioxosilane;methoxy-dimethyl-trimethylsilyloxy-silane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dioxosilane;methoxy-dimethyl-trimethylsilyloxysilane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dioxosilane;methoxy-dimethyl-trimethylsilyloxysilane
+
+> <PUBCHEM_IUPAC_NAME>
+dioxosilane;methoxy-dimethyl-trimethylsilyloxysilane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+bis(oxidanylidene)silane;methoxy-dimethyl-trimethylsilyloxy-silane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+diketosilane;methoxy-dimethyl-trimethylsilyloxy-silane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H18O2Si2.O2Si/c1-7-10(5,6)8-9(2,3)4;1-3-2/h1-6H3;
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AMTWCFIAVKBGOD-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+238.05128865
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H18O4Si3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+238.46
+
+> <PUBCHEM_SMILES>
+CO[Si](C)(C)O[Si](C)(C)C.O=[Si]=O
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CO[Si](C)(C)O[Si](C)(C)C.O=[Si]=O
+
+> <PUBCHEM_CACTVS_TPSA>
+52.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+238.05128865
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

@@ -1,0 +1,152 @@
+134717
+  -OEChem-12112522102D
+
+ 27 20  0     0  0  0  0  0  0999 V2000
+    6.2089    1.0000    0.0000 Mg  0  2  0  0  0  0  0  0  0  0  0  0
+    7.0749    1.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3429    1.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.9409    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4768    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.5185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    4.0369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    6.5369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    9.0369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6108    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9409    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4768    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1170    0.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3439    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4970    2.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9208    2.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3008    0.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739    4.8285    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.8285    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7458    4.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    4.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7458    6.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    6.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7458    9.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    9.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 13  2  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  CHG  3   1   2   2  -1   3  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+134717
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+25.5
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgPAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAAAACAgAACCAAAAAAIAACQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+magnesium;diacetate;tetrahydrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+magnesium;diacetate;tetrahydrate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+magnesium;diacetate;tetrahydrate
+
+> <PUBCHEM_IUPAC_NAME>
+magnesium;diacetate;tetrahydrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+magnesium;diethanoate;tetrahydrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+magnesium;diacetate;tetrahydrate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2C2H4O2.Mg.4H2O/c2*1-2(3)4;;;;;/h2*1H3,(H,3,4);;4*1H2/q;;+2;;;;/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XKPKPGCRSHFTKM-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+214.0539091
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H14MgO8
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+214.45
+
+> <PUBCHEM_SMILES>
+CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Mg+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Mg+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+84.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+214.0539091
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+7
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

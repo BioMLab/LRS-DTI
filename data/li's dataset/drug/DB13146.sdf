@@ -1,0 +1,142 @@
+450601
+  -OEChem-12112522192D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.0000   -1.5086    0.0000 F  -1  0  0  0  0  0  0  0  0  0  0  0
+    5.2071    1.0646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2071   -0.6675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7071    1.1986    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7071    0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7071   -0.8014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7071    0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7071   -0.8014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7071    0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7071   -1.4215    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3271   -0.8014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7071    0.8186    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0871    0.1986    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9444   -1.3742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1702    1.5086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2440    1.5086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8271    1.0646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  ISO  1   1  18
+M  END
+> <PUBCHEM_COMPOUND_CID>
+450601
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+142
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMQAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAHwAQCAAADIiBgAAACABAAgAIAACQCAAAAAAAAAAAAAGAAAACABIAgAAAQAAEEAAAAACIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-amino-3-(18F)fluoro-cyclobutanecarboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-amino-3-(18F)fluoro-1-cyclobutanecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-amino-3-(<SUP>18</SUP>F)fluorocyclobutane-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1-amino-3-(18F)fluorocyclobutane-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-azanyl-3-(18F)fluoranyl-cyclobutane-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-amino-3-(18F)fluoro-cyclobutanecarboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H8FNO2/c6-3-1-5(7,2-3)4(8)9/h3H,1-2,7H2,(H,8,9)/i6-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NTEDWGYJNHZKQW-KWCOIAHCSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-2.6
+
+> <PUBCHEM_EXACT_MASS>
+132.056441
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H8FNO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+132.12
+
+> <PUBCHEM_SMILES>
+C1C(CC1(C(=O)O)N)[18F]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C1C(CC1(C(=O)O)N)F
+
+> <PUBCHEM_CACTVS_TPSA>
+63.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+132.056441
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+1
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

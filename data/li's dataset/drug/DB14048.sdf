@@ -1,0 +1,132 @@
+134694335
+  -OEChem-12112522212D
+
+ 15 12  0     0  0  0  0  0  0999 V2000
+    1.6160    0.0000    0.0000 Zr  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8660    3.3660    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    4.8660    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7320    4.8660    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3660    2.5000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    3.3660    2.5000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    1.0000    3.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7320    3.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8660    5.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3660    2.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3660    2.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.5000    5.7320    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.8660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2320    5.7320    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320    4.8660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+M  CHG  8   5   1   6   1  10  -1  11  -1  12  -1  13  -1  14  -1  15  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+134694335
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+131
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAPDwAAAAAAQAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+disodium;2,2,4,4,6,6-hexaoxido-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+disodium;2,2,4,4,6,6-hexaoxido-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+disodium;2,2,4,4,6,6-hexaoxido-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_NAME>
+disodium;2,2,4,4,6,6-hexaoxido-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+disodium;2,2,4,4,6,6-hexakis(oxidanidyl)-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+disodium;2,2,4,4,6,6-hexaoxido-1,3,5,2,4,6-trioxatrisilinane;zirconium
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Na.O9Si3.Zr/c;;1-10(2)7-11(3,4)9-12(5,6)8-10;/q2*+1;-6;
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ARVUQMBOTBOHPL-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+363.769248
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Na2O9Si3Zr-4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+365.45
+
+> <PUBCHEM_SMILES>
+[O-][Si]1(O[Si](O[Si](O1)([O-])[O-])([O-])[O-])[O-].[Na+].[Na+].[Zr]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+[O-][Si]1(O[Si](O[Si](O1)([O-])[O-])([O-])[O-])[O-].[Na+].[Na+].[Zr]
+
+> <PUBCHEM_CACTVS_TPSA>
+166
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+363.769248
+
+> <PUBCHEM_TOTAL_CHARGE>
+-4
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+4
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

@@ -1,0 +1,138 @@
+131704315
+  -OEChem-12112522072D
+
+ 18 14  0     0  0  0  0  0  0999 V2000
+    6.4078    2.0000    0.0000 Tc  1  0  0  0  0  0  0  0  0  0  0  0
+    7.9078    2.8660    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4078    1.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4078    2.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4078    3.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4078    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.4078    2.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.4078    3.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4078    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1749    6.6001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4078    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9420    1.4091    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1892    0.4198    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7118    6.9101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6380    6.9101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739    3.6101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.6101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  CHG  5   1   4   4  -1   5  -1   6  -1   7  -1
+M  ISO  1   1  98
+M  END
+> <PUBCHEM_COMPOUND_CID>
+131704315
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+128
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYAAPAMAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgACCAAAAAAAAAAAAAAABAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dioxido-oxo-(phosphonatomethyl)-lambda5-phosphane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dioxido-oxo-(phosphonatomethyl)phosphorane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dioxido-oxo-(phosphonatomethyl)-&lambda;<SUP>5</SUP>-phosphane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_NAME>
+dioxido-oxo-(phosphonatomethyl)-lambda5-phosphane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+bis(oxidanidyl)-oxidanylidene-(phosphonatomethyl)-lambda5-phosphane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+keto-dioxido-(phosphonatomethyl)phosphorane;technetium-98(4+);dihydrate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/CH6O6P2.2H2O.Tc/c2-8(3,4)1-9(5,6)7;;;/h1H2,(H2,2,3,4)(H2,5,6,7);2*1H2;/q;;;+4/p-4/i;;;1+0
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IUPNVOAUFBLQME-LDYDCSBASA-J
+
+> <PUBCHEM_EXACT_MASS>
+305.86100
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+CH6O8P2Tc
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+305.91
+
+> <PUBCHEM_SMILES>
+C(P(=O)([O-])[O-])P(=O)([O-])[O-].O.O.[98Tc+4]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(P(=O)([O-])[O-])P(=O)([O-])[O-].O.O.[Tc+4]
+
+> <PUBCHEM_CACTVS_TPSA>
+128
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+305.86100
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+1
+
+> <PUBCHEM_COMPONENT_COUNT>
+4
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

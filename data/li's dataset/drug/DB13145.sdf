@@ -1,0 +1,143 @@
+9548889
+  -OEChem-12112522192D
+
+ 18 14  0     0  0  0  0  0  0999 V2000
+    3.3987   -0.4686    0.0000 Pt  0  2  0  0  0  0  0  0  0  0  0  0
+    2.5897    0.1192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2077    0.1192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4865    1.8792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8109   -1.2777    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -1.2777    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8987    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8987    1.0702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7973   -0.0724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9635    1.6868    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922    1.1991    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2969   -1.6244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9609   -1.8792    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.9132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5005   -1.6244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4881   -0.9132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8364   -1.8792    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  CHG  1   1   2
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9548889
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+50.5
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBDMAAAAAAAAAAABAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGgAQCAAAAACggAIACAAAAgAIAACQCAIAAAAAAAAAAABAAAABEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ammonia;2-hydroxyacetic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+ammonia;2-hydroxyacetic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+azane;2-hydroxyacetic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_NAME>
+azane;2-hydroxyacetic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+azane;2-oxidanylethanoic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ammonia;glycolic acid;platinum(2+)
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C2H4O3.2H3N.Pt/c3-1-2(4)5;;;/h3H,1H2,(H,4,5);2*1H3;/q;;;+2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NOSYGQGJJZNNMA-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+305.033937
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C2H10N2O3Pt+2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+305.20
+
+> <PUBCHEM_SMILES>
+C(C(=O)O)O.N.N.[Pt+2]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+C(C(=O)O)O.N.N.[Pt+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+59.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+305.033937
+
+> <PUBCHEM_TOTAL_CHARGE>
+2
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+4
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_NONSTANDARDBOND>
+1  2  6
+1  3  6
+1  5  6
+1  6  6
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

@@ -1,0 +1,128 @@
+71586946
+  -OEChem-12112522142D
+
+ 16  7  0     0  0  0  0  0  0999 V2000
+    5.6113    1.8100    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    4.7453    1.3100    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    4.4768    5.1200    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.5600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8793    1.8100    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7453    0.3100    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3429    5.6200    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.6108    5.6200    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4768    4.1200    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0739    2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3423    1.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2822    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8798    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0739    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9399    3.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+M  CHG  8   1  -1   2   3   3   3   5  -1   6  -1   7  -1   8  -1   9  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+71586946
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+0
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYAAOAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_NAME>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dialuminum;chloride;pentahydroxide;hydrate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Al.ClH.6H2O/h;;1H;6*1H2/q2*+3;;;;;;;/p-6
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZLVPDILYQLCEJO-UHFFFAOYSA-H
+
+> <PUBCHEM_EXACT_MASS>
+191.956192
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Al2ClH7O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+192.47
+
+> <PUBCHEM_SMILES>
+O.[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-]
+
+> <PUBCHEM_CONNECTIVITY_SMILES>
+O.[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+191.956192
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+9
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
