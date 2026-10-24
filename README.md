@@ -1,6 +1,6 @@
 # LRS-DTI
 
-## 1. File Description
+## 1. File Directory
 
 ```text
 git_code/
